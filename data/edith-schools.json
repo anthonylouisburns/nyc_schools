@@ -23,7 +23,8 @@
         }
       ],
       "intersection": "Near 2 Avenue & East 23 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.47aslhs.net/"
     },
     {
       "name": "A School Without Walls: Hybrid Pathway",
@@ -43,7 +44,8 @@
         }
       ],
       "intersection": "Near Thames Street & Trinity Place",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://aschoolwithoutwalls.org/"
     },
     {
       "name": "A. Philip Randolph Campus High School",
@@ -63,7 +65,8 @@
         }
       ],
       "intersection": "Near St Nicholas Terrace & West 135 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.aprandolph.com/"
     },
     {
       "name": "Academy for Software Engineering (AFSE)",
@@ -83,7 +86,8 @@
         }
       ],
       "intersection": "Near East 16 Street & Irving Place",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.afsenyc.org"
     },
     {
       "name": "Art and Design High School",
@@ -103,7 +107,8 @@
         }
       ],
       "intersection": "Near 2 Avenue & East 56 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.artanddesignhs.org/"
     },
     {
       "name": "Bard High School Early College",
@@ -123,7 +128,8 @@
         }
       ],
       "intersection": "Near East Houston Street & Mangin Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://bhsec.bard.edu/manhattan/"
     },
     {
       "name": "Baruch College Campus High School",
@@ -143,7 +149,8 @@
         }
       ],
       "intersection": "Near East 25 Street & Park Avenue South",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.bcchsnyc.net/"
     },
     {
       "name": "Beacon High School",
@@ -163,7 +170,8 @@
         }
       ],
       "intersection": "Near 10 Avenue & West 44 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://beaconschool.org/"
     },
     {
       "name": "Business of Sports School",
@@ -183,7 +191,8 @@
         }
       ],
       "intersection": "Near 9 Avenue & West 49 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.nycboss.org/"
     },
     {
       "name": "Central Park East High School",
@@ -203,7 +212,8 @@
         }
       ],
       "intersection": "Near East 107 Street & Madison Avenue",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.centralparkeasths.org/"
     },
     {
       "name": "Chelsea Career and Technical Education High School",
@@ -223,7 +233,8 @@
         }
       ],
       "intersection": "Near Avenue Of The Americas & Dominick Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.chelseacte.org/"
     },
     {
       "name": "City College Academy of the Arts",
@@ -243,7 +254,8 @@
         }
       ],
       "intersection": "Near Broadway & West 196 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.ccmsa293.org/"
     },
     {
       "name": "City-As-School",
@@ -263,7 +275,8 @@
         }
       ],
       "intersection": "Near Clarkson Street & Hudson Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.cityas.org/"
     },
     {
       "name": "College Academy, The",
@@ -283,7 +296,8 @@
         }
       ],
       "intersection": "Near Audubon Avenue & West 193 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.thecollegeacademy.com/"
     },
     {
       "name": "Columbia Secondary School",
@@ -303,7 +317,8 @@
         }
       ],
       "intersection": "Near Morningside Avenue & West 123 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.columbiasecondary.org"
     },
     {
       "name": "Community Health Academy of the Heights",
@@ -323,7 +338,8 @@
         }
       ],
       "intersection": "Near Amsterdam Avenue & West 158 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.chah.nyc/"
     },
     {
       "name": "Eagle Academy for Young Men of Harlem",
@@ -343,7 +359,8 @@
         }
       ],
       "intersection": "Near Edgecombe Avenue & West 136 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.eagleharlem.nyc"
     },
     {
       "name": "East Side Community School",
@@ -363,7 +380,8 @@
         }
       ],
       "intersection": "Near Avenue A & East 12 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.eschs.org/"
     },
     {
       "name": "Edward A Reynolds Westside HS",
@@ -383,7 +401,8 @@
         }
       ],
       "intersection": "Near East 106 Street & Park Avenue",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.eartransferhs.org/"
     },
     {
       "name": "Eleanor Roosevelt High School",
@@ -402,7 +421,8 @@
           "url": "https://www.erhsnyc.org/apps/news/show_news.jsp?REC_ID=969116&id=2"
         }
       ],
-      "intersection": "Near East 76th Street and First Avenue"
+      "intersection": "Near East 76th Street and First Avenue",
+      "website_url": "https://www.erhsnyc.org/"
     },
     {
       "name": "Emma Lazarus High School for English Language Scholars",
@@ -422,7 +442,8 @@
         }
       ],
       "intersection": "Near Forsyth Street & Hester Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.emmalazarus.org/"
     },
     {
       "name": "Esperanza Preparatory Academy",
@@ -442,7 +463,8 @@
         }
       ],
       "intersection": "Near 2 Avenue & East 109 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.epaschool.org/"
     },
     {
       "name": "Essex Street Academy",
@@ -462,7 +484,8 @@
         }
       ],
       "intersection": "Near Broome Street & Ludlow Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.essexstreetacademy.org/"
     },
     {
       "name": "Facing History School, The",
@@ -482,7 +505,8 @@
         }
       ],
       "intersection": "Near 10 Avenue & West 50 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://facinghistoryschool.org/"
     },
     {
       "name": "Fiorello H. LaGuardia High School of Music & Art and Performing Arts",
@@ -501,7 +525,8 @@
           "url": "https://www.laguardiahs.org/apps/news/show_news.jsp?REC_ID=977035&id=0"
         }
       ],
-      "intersection": "Amsterdam Avenue at West 65th Street"
+      "intersection": "Amsterdam Avenue at West 65th Street",
+      "website_url": "https://www.laguardiahs.org/"
     },
     {
       "name": "Food and Finance High School",
@@ -521,7 +546,8 @@
         }
       ],
       "intersection": "Near 10 Avenue & West 50 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.foodfinancehs.org"
     },
     {
       "name": "Forsyth Satellite Academy",
@@ -541,7 +567,8 @@
         }
       ],
       "intersection": "Near Forsyth Street & Stanton Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.forsythsatellite.org/"
     },
     {
       "name": "Frank McCourt High School",
@@ -560,7 +587,8 @@
           "url": "https://www.successacademies.org/school/upper-west/"
         }
       ],
-      "intersection": "West 84th Street between Columbus and Amsterdam Avenues"
+      "intersection": "West 84th Street between Columbus and Amsterdam Avenues",
+      "website_url": "https://www.fmhsnyc.org/"
     },
     {
       "name": "Frederick Douglass Academy",
@@ -580,7 +608,8 @@
         }
       ],
       "intersection": "Near Adam Clayton Powell Jr Boulevard & West 150 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.fda1harlem.org"
     },
     {
       "name": "Frederick Douglass Academy II Secondary School",
@@ -600,7 +629,8 @@
         }
       ],
       "intersection": "Near Adam Clayton Powell Jr Boulevard & West 114 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://fda2.net/"
     },
     {
       "name": "Gateway Tech",
@@ -620,7 +650,8 @@
         }
       ],
       "intersection": "Near 9 Avenue & West 49 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.gatewaytech.com"
     },
     {
       "name": "Global Learning Collaborative, The",
@@ -639,7 +670,8 @@
           "url": "https://www.successacademies.org/school/upper-west/"
         }
       ],
-      "intersection": "West 84th Street between Columbus and Amsterdam Avenues"
+      "intersection": "West 84th Street between Columbus and Amsterdam Avenues",
+      "website_url": "https://www.theglcnyc.org/"
     },
     {
       "name": "Gramercy Arts High School",
@@ -659,7 +691,8 @@
         }
       ],
       "intersection": "Near East 16 Street & Irving Place",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.gramercyhs.org/"
     },
     {
       "name": "Gregorio Luperon High School for Science and Mathematics",
@@ -679,7 +712,8 @@
         }
       ],
       "intersection": "Near Amsterdam Avenue & West 165 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.glhs.nyc/"
     },
     {
       "name": "Harvest Collegiate High School",
@@ -699,7 +733,8 @@
         }
       ],
       "intersection": "Near Avenue Of The Americas & West 14 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.harvestcollegiate.org/"
     },
     {
       "name": "Harvey Milk High School",
@@ -719,7 +754,8 @@
         }
       ],
       "intersection": "Near Astor Place & Broadway",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.hmhsnyc.org/"
     },
     {
       "name": "Heritage School, The",
@@ -739,7 +775,8 @@
         }
       ],
       "intersection": "Near East 105 Street & Lexington Avenue",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://sites.google.com/theheritageschoolnyc.com/theheritageschool/home"
     },
     {
       "name": "High School For Climate Justice",
@@ -759,7 +796,8 @@
         }
       ],
       "intersection": "Near 1 Avenue & East 96 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://climatejustice.nyc/"
     },
     {
       "name": "High School for Dual Language and Asian Studies",
@@ -779,7 +817,8 @@
         }
       ],
       "intersection": "Near Broome Street & Ludlow Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.hsdlasnyc.org/"
     },
     {
       "name": "High School for Environmental Studies",
@@ -799,7 +838,8 @@
         }
       ],
       "intersection": "Near 10 Avenue & West 56 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.envirostudies.org"
     },
     {
       "name": "High School for Excellence and Innovation",
@@ -819,7 +859,8 @@
         }
       ],
       "intersection": "Near Academy Street & Vermilyea Avenue",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.hseigators.org/"
     },
     {
       "name": "High School for Health Careers and Sciences",
@@ -839,7 +880,8 @@
         }
       ],
       "intersection": "Near Audubon Avenue & West 193 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.hshcs.nyc/"
     },
     {
       "name": "High School for Health Professions and Human Services",
@@ -859,7 +901,8 @@
         }
       ],
       "intersection": "Near 1 Avenue & East 15 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.hphsnyc.org/"
     },
     {
       "name": "High School for Language and Diplomacy, The",
@@ -879,7 +922,8 @@
         }
       ],
       "intersection": "Near East 16 Street & Irving Place",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.hslad.org/"
     },
     {
       "name": "High School for Law and Public Service",
@@ -899,7 +943,8 @@
         }
       ],
       "intersection": "Near Audubon Avenue & West 193 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.myhslps.org/"
     },
     {
       "name": "High School for Law, Advocacy and Community Justice",
@@ -919,7 +964,8 @@
         }
       ],
       "intersection": "Near Amsterdam Avenue & West 66 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.lacjhs.org/"
     },
     {
       "name": "High School for Math, Science and Engineering at City College (HSMSE)",
@@ -938,7 +984,8 @@
           "url": "https://www.ccny.cuny.edu/sites/default/files/2021-02/448809103-The-City-Experience.pdf#page=22"
         }
       ],
-      "intersection": "Convent Avenue at West 140th Street (Baskerville Hall)"
+      "intersection": "Convent Avenue at West 140th Street (Baskerville Hall)",
+      "website_url": "https://www.hsmse.org/"
     },
     {
       "name": "High School for Media and Communications",
@@ -958,7 +1005,8 @@
         }
       ],
       "intersection": "Near Audubon Avenue & West 193 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.mediahs.org/"
     },
     {
       "name": "High School of Arts and Technology",
@@ -977,7 +1025,8 @@
           "url": "https://www.kaufmanmusiccenter.org/sms/about/"
         }
       ],
-      "intersection": "Amsterdam Avenue between West 65th and West 66th Streets"
+      "intersection": "Amsterdam Avenue between West 65th and West 66th Streets",
+      "website_url": "https://www.hsartstech.org/"
     },
     {
       "name": "High School of Economics and Finance",
@@ -997,7 +1046,8 @@
         }
       ],
       "intersection": "Near Thames Street & Trinity Place",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.ecoandfin.org/"
     },
     {
       "name": "High School of Fashion Industries, The",
@@ -1017,7 +1067,8 @@
         }
       ],
       "intersection": "Near 8 Avenue & West 24 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.hsfi.nyc"
     },
     {
       "name": "High School of Hospitality Management",
@@ -1037,7 +1088,8 @@
         }
       ],
       "intersection": "Near 10 Avenue & West 50 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.hshm.school"
     },
     {
       "name": "Hudson High School of Learning Technologies",
@@ -1057,7 +1109,8 @@
         }
       ],
       "intersection": "Near 9 Avenue & West 18 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.hudsonhs.com/"
     },
     {
       "name": "Humanities Preparatory Academy",
@@ -1077,7 +1130,8 @@
         }
       ],
       "intersection": "Near 9 Avenue & West 18 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.humanitiesprep.org/"
     },
     {
       "name": "Independence High School",
@@ -1097,7 +1151,8 @@
         }
       ],
       "intersection": "Near 10 Avenue & West 56 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.ihsnyc.com"
     },
     {
       "name": "Institute for Collaborative Education (ICE)",
@@ -1117,7 +1172,8 @@
         }
       ],
       "intersection": "Near 1 Avenue & East 15 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.iceschoolnyc.org/"
     },
     {
       "name": "International High School at Union Square",
@@ -1137,7 +1193,8 @@
         }
       ],
       "intersection": "Near East 16 Street & Irving Place",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.schools.nyc.gov/schools/M438"
     },
     {
       "name": "Inwood Early College for Health and Information Technologies",
@@ -1157,7 +1214,8 @@
         }
       ],
       "intersection": "Near Academy Street & Vermilyea Avenue",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "http://www.inwoodec.org/"
     },
     {
       "name": "Jacqueline Kennedy Onassis High School",
@@ -1177,7 +1235,8 @@
         }
       ],
       "intersection": "Near Avenue Of The Americas & West 46 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.jkohighschool.org"
     },
     {
       "name": "James Baldwin School, The",
@@ -1197,7 +1256,8 @@
         }
       ],
       "intersection": "Near 9 Avenue & West 18 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.thejamesbaldwinschool.org/"
     },
     {
       "name": "Landmark High School",
@@ -1217,7 +1277,8 @@
         }
       ],
       "intersection": "Near 9 Avenue & West 18 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.landmarkhs.org/"
     },
     {
       "name": "Leadership and Public Service High School",
@@ -1237,7 +1298,8 @@
         }
       ],
       "intersection": "Near Thames Street & Trinity Place",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://leadershipnyc.org/"
     },
     {
       "name": "Liberty High School Academy for Newcomers",
@@ -1257,7 +1319,8 @@
         }
       ],
       "intersection": "Near 8 Avenue & West 18 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "http://www.libertyhsnyc.com/"
     },
     {
       "name": "Lower East Side Preparatory High School",
@@ -1277,7 +1340,8 @@
         }
       ],
       "intersection": "Near Stanton Street & Suffolk Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.lespnyc.com/"
     },
     {
       "name": "Lower Manhattan Arts Academy",
@@ -1297,7 +1361,8 @@
         }
       ],
       "intersection": "Near Broome Street & Ludlow Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.lomahs.org"
     },
     {
       "name": "Manhattan / Hunter Science High School",
@@ -1316,7 +1381,8 @@
           "url": "https://www.kaufmanmusiccenter.org/sms/about/"
         }
       ],
-      "intersection": "Amsterdam Avenue between West 65th and West 66th Streets"
+      "intersection": "Amsterdam Avenue between West 65th and West 66th Streets",
+      "website_url": "https://www.mhshs.org"
     },
     {
       "name": "Manhattan Academy for Arts & Language",
@@ -1335,7 +1401,8 @@
           "url": "https://www.mhacademy.net/"
         }
       ],
-      "intersection": "East 33rd Street between Park and Lexington Avenues"
+      "intersection": "East 33rd Street between Park and Lexington Avenues",
+      "website_url": "https://www.maalnyc.org/"
     },
     {
       "name": "Manhattan Bridges High School",
@@ -1355,7 +1422,8 @@
         }
       ],
       "intersection": "Near 10 Avenue & West 50 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://sites.google.com/manhattanbridgeshs.org/mbhs/home"
     },
     {
       "name": "Manhattan Business Academy",
@@ -1375,7 +1443,8 @@
         }
       ],
       "intersection": "Near 9 Avenue & West 18 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.mbanyc.org/"
     },
     {
       "name": "Manhattan Center for Science and Mathematics",
@@ -1395,7 +1464,8 @@
         }
       ],
       "intersection": "Near East 115 Street & Pleasant Avenue",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.mcsm.net/"
     },
     {
       "name": "Manhattan Early College Academy for Marketing and Media Arts (MECA)",
@@ -1415,7 +1485,8 @@
         }
       ],
       "intersection": "Near Madison Street & Pearl Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.meca-nyc.org"
     },
     {
       "name": "Manhattan International High School",
@@ -1434,7 +1505,8 @@
           "url": "https://www.myschools.nyc/en/calendar/event/2030/?occurence_id=4288"
         }
       ],
-      "intersection": "East 67th Street between First and Second Avenues"
+      "intersection": "East 67th Street between First and Second Avenues",
+      "website_url": "https://www.mihsnyc.org/"
     },
     {
       "name": "Manhattan Village Academy",
@@ -1454,7 +1526,8 @@
         }
       ],
       "intersection": "Near Avenue Of The Americas & West 22 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.mvahighschool.org/"
     },
     {
       "name": "Millennium High School",
@@ -1474,7 +1547,8 @@
         }
       ],
       "intersection": "Near Broad Street & Marketfield Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.millenniumhs.org"
     },
     {
       "name": "Mott Hall High School",
@@ -1494,7 +1568,8 @@
         }
       ],
       "intersection": "Near Edgecombe Avenue & West 136 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.motthallharlem.org"
     },
     {
       "name": "Mott Hall II",
@@ -1514,7 +1589,8 @@
         }
       ],
       "intersection": "Near Adam Clayton Powell Jr Boulevard & West 121 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.motthall2.org/"
     },
     {
       "name": "Murray Hill Academy",
@@ -1533,7 +1609,8 @@
           "url": "https://www.mhacademy.net/"
         }
       ],
-      "intersection": "East 33rd Street between Park and Lexington Avenues"
+      "intersection": "East 33rd Street between Park and Lexington Avenues",
+      "website_url": "https://www.mhacademy.net/"
     },
     {
       "name": "Murry Bergtraum High School for Business Careers",
@@ -1553,7 +1630,8 @@
         }
       ],
       "intersection": "Near Madison Street & Pearl Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.mbhsnyc.org/"
     },
     {
       "name": "N.Y.C. Lab School for Collaborative Studies",
@@ -1573,7 +1651,8 @@
         }
       ],
       "intersection": "Near 8 Avenue & West 17 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.nyclabschool.org/"
     },
     {
       "name": "N.Y.C. Museum School",
@@ -1593,7 +1672,8 @@
         }
       ],
       "intersection": "Near 8 Avenue & West 17 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.nycmuseumschool.org"
     },
     {
       "name": "New Design High School",
@@ -1613,7 +1693,8 @@
         }
       ],
       "intersection": "Near Broome Street & Ludlow Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.newdesignhigh.com/"
     },
     {
       "name": "New Explorations into Science, Technology and Math High School (NEST+m)",
@@ -1633,7 +1714,8 @@
         }
       ],
       "intersection": "Near Columbia Street & Stanton Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://nestmk12.net/"
     },
     {
       "name": "NYC iSchool",
@@ -1653,7 +1735,8 @@
         }
       ],
       "intersection": "Near Avenue Of The Americas & Dominick Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.nycischool.org/"
     },
     {
       "name": "Orchard Collegiate Academy",
@@ -1673,7 +1756,8 @@
         }
       ],
       "intersection": "Near Henry Street & Montgomery Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.orchardcollegiateacademy.org"
     },
     {
       "name": "Pace High School",
@@ -1693,7 +1777,8 @@
         }
       ],
       "intersection": "Near Forsyth Street & Hester Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "pacehighschoolnyc.net"
     },
     {
       "name": "Park East High School",
@@ -1713,7 +1798,8 @@
         }
       ],
       "intersection": "Near 2 Avenue & East 105 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.parkeasths.org/"
     },
     {
       "name": "Professional Performing Arts High School (PPAS)",
@@ -1733,7 +1819,8 @@
         }
       ],
       "intersection": "Near 8 Avenue & West 48 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.ppasnyc.org/"
     },
     {
       "name": "Quest to Learn",
@@ -1753,7 +1840,8 @@
         }
       ],
       "intersection": "Near 9 Avenue & West 18 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://q2l.org/"
     },
     {
       "name": "Repertory Company High School for Theatre Arts",
@@ -1773,7 +1861,8 @@
         }
       ],
       "intersection": "Near Avenue Of The Americas & West 43 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.repertorycompanyhs.org/"
     },
     {
       "name": "Richard R. Green High School of Teaching",
@@ -1793,7 +1882,8 @@
         }
       ],
       "intersection": "Near Beaver Street & New Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://rrghst.org/"
     },
     {
       "name": "School for Global Leaders",
@@ -1813,7 +1903,8 @@
         }
       ],
       "intersection": "Near Stanton Street & Suffolk Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.sgl378.org/"
     },
     {
       "name": "School of the Future High School",
@@ -1833,7 +1924,8 @@
         }
       ],
       "intersection": "Near East 22 Street & Lexington Avenue",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.sof.edu"
     },
     {
       "name": "Special Music School",
@@ -1852,7 +1944,8 @@
           "url": "https://www.kaufmanmusiccenter.org/sms/about/"
         }
       ],
-      "intersection": "Amsterdam Avenue between West 65th and West 66th Streets"
+      "intersection": "Amsterdam Avenue between West 65th and West 66th Streets",
+      "website_url": "https://www.kaufmanmusiccenter.org/"
     },
     {
       "name": "Stephen T. Mather Building Arts & Craftsmanship High School",
@@ -1872,7 +1965,8 @@
         }
       ],
       "intersection": "Near 9 Avenue & West 49 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.matherhsnyc.org/"
     },
     {
       "name": "Stuyvesant High School",
@@ -1892,7 +1986,8 @@
         }
       ],
       "intersection": "Near Chambers Street & North End Avenue",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://stuy.enschool.org/"
     },
     {
       "name": "Talent Unlimited High School",
@@ -1911,7 +2006,8 @@
           "url": "https://www.myschools.nyc/en/calendar/event/2030/?occurence_id=4288"
         }
       ],
-      "intersection": "East 67th Street between First and Second Avenues"
+      "intersection": "East 67th Street between First and Second Avenues",
+      "website_url": "https://www.theuagway.org/"
     },
     {
       "name": "The Clinton School",
@@ -1931,7 +2027,8 @@
         }
       ],
       "intersection": "Near 5 Avenue & East 15 Street & West 15 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.theclintonschool.net/"
     },
     {
       "name": "The Urban Assembly Early College High School of Emergency Medicine",
@@ -1951,7 +2048,8 @@
         }
       ],
       "intersection": "Near Madison Street & Pearl Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.echemnyc.org/"
     },
     {
       "name": "Thurgood Marshall Academy for Learning and Social Change",
@@ -1971,7 +2069,8 @@
         }
       ],
       "intersection": "Near Adam Clayton Powell Jr Boulevard & West 135 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.tmanyc.org/"
     },
     {
       "name": "Union Square Academy for Health Sciences",
@@ -1991,7 +2090,8 @@
         }
       ],
       "intersection": "Near East 16 Street & Irving Place",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.unionsquareacademy.org"
     },
     {
       "name": "Unity Center for Urban Technologies",
@@ -2010,7 +2110,8 @@
           "url": "https://www.mhacademy.net/"
         }
       ],
-      "intersection": "East 33rd Street between Park and Lexington Avenues"
+      "intersection": "East 33rd Street between Park and Lexington Avenues",
+      "website_url": "https://www.unitycenterhs.org/"
     },
     {
       "name": "University Neighborhood High School",
@@ -2030,7 +2131,8 @@
         }
       ],
       "intersection": "Near Gouverneur Street & Monroe Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://universityneighborhoodhighschool.org/"
     },
     {
       "name": "Urban Academy Laboratory High School",
@@ -2049,7 +2151,8 @@
           "url": "https://www.myschools.nyc/en/calendar/event/2030/?occurence_id=4288"
         }
       ],
-      "intersection": "East 67th Street between First and Second Avenues"
+      "intersection": "East 67th Street between First and Second Avenues",
+      "website_url": "www.urbanacademy.org"
     },
     {
       "name": "Urban Assembly Academy of Government and Law, The",
@@ -2069,7 +2172,8 @@
         }
       ],
       "intersection": "Near Broome Street & Ludlow Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.uaagl.org/"
     },
     {
       "name": "Urban Assembly Maker Academy",
@@ -2089,7 +2193,8 @@
         }
       ],
       "intersection": "Near Madison Street & Pearl Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.uamaker.nyc/"
     },
     {
       "name": "Urban Assembly New York Harbor School",
@@ -2112,7 +2217,8 @@
           "url": "https://www.nyc.gov/assets/manhattancb1/downloads/pdf/board-meeting-presentations/23-12-20.pdf"
         }
       ],
-      "intersection": "Short Avenue near Clayton Road, Governors Island (ferry from 10 South Street)"
+      "intersection": "Short Avenue near Clayton Road, Governors Island (ferry from 10 South Street)",
+      "website_url": "https://www.newyorkharborschool.org"
     },
     {
       "name": "Urban Assembly School for Global Commerce, The",
@@ -2132,7 +2238,8 @@
         }
       ],
       "intersection": "Near East 127 Street & Madison Avenue",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "http://uaglobalcommerce.org/"
     },
     {
       "name": "Urban Assembly School for Green Careers, The",
@@ -2152,7 +2259,8 @@
         }
       ],
       "intersection": "Near Columbus Avenue & West 84 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.uagreencareers.org/"
     },
     {
       "name": "Urban Assembly School for Media Studies, The",
@@ -2171,7 +2279,8 @@
           "url": "https://www.kaufmanmusiccenter.org/sms/about/"
         }
       ],
-      "intersection": "Amsterdam Avenue between West 65th and West 66th Streets"
+      "intersection": "Amsterdam Avenue between West 65th and West 66th Streets",
+      "website_url": "www.uamhs.org"
     },
     {
       "name": "Urban Assembly School for the Performing Arts",
@@ -2191,7 +2300,8 @@
         }
       ],
       "intersection": "Near Amsterdam Avenue & West 129 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.uaperformingarts.org/"
     },
     {
       "name": "Urban Assembly School of Design and Construction, The",
@@ -2211,7 +2321,8 @@
         }
       ],
       "intersection": "Near 10 Avenue & West 50 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.uasdc.org/"
     },
     {
       "name": "Vanguard High School",
@@ -2230,7 +2341,8 @@
           "url": "https://www.myschools.nyc/en/calendar/event/2030/?occurence_id=4288"
         }
       ],
-      "intersection": "East 67th Street between First and Second Avenues"
+      "intersection": "East 67th Street between First and Second Avenues",
+      "website_url": "https://vanguardhighschool.org/"
     },
     {
       "name": "Wadleigh Secondary School for the Performing & Visual Arts",
@@ -2250,7 +2362,8 @@
         }
       ],
       "intersection": "Near Adam Clayton Powell Jr Boulevard & West 114 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.wadleigharts.org"
     },
     {
       "name": "Washington Heights Expeditionary Learning School (WHEELS)",
@@ -2270,7 +2383,8 @@
         }
       ],
       "intersection": "Near Amsterdam Avenue & West 182 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.wheelsnyc.org/"
     },
     {
       "name": "West End Secondary School",
@@ -2290,7 +2404,8 @@
         }
       ],
       "intersection": "Near West 61 Street & West End Avenue",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.westendsecondary.com/"
     },
     {
       "name": "Young Women's Leadership School (TYWLS)",
@@ -2310,7 +2425,8 @@
         }
       ],
       "intersection": "Near Amsterdam Avenue & West 102 Street",
-      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "website_url": "https://www.tywls.org/"
     }
   ]
 }

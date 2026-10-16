@@ -11,10 +11,21 @@ function normalize(s){return {...s,name:s.name||s.school_name||'Unnamed school',
 function getReview(dbn){return (reviews[selected]?.schools||reviews[selected]?.reviews||[]).find(r=>r.dbn===dbn);}
 function ranks(){try{return JSON.parse(localStorage.getItem(`family-ranks-${selected}`)||'{}');}catch{return {};}}
 function rank(s){return Number(ranks()[s.dbn]||getReview(s.dbn)?.family_rank||999);}
-function details(s,r){const d=text('section','','school-detail-content');d.append(text('h3',s.name,'expanded-school-title'),text('p',`${s.dbn} · District ${s.district} · Grades ${s.grades}`,'school-meta'));if(s.address)d.append(text('p',s.address,'school-meta'));if(s.intersection)d.append(text('p',s.intersection,'school-meta'));if(s.entrance_note)d.append(text('p',s.entrance_note,'school-meta'));if(s.intersection_method)d.append(text('p',s.intersection_method,'school-meta'));for(const source of s.address_sources||[])if(safeURL(source.url))d.append(link(source.title||'Location source',source.url));d.append(schoolFeedback(s));if(!r){d.append(text('p','Not reviewed yet. Additional school reviews are being checked.'));return d;}
+function schoolVisit(s,r){
+ const panel=text('section','','school-visit');panel.append(text('h3','Location & visits'));
+ if(s.address){const query=encodeURIComponent(`${s.name}, ${s.address}`),map=document.createElement('iframe');map.title=`Map of ${s.name}`;map.loading='lazy';map.referrerPolicy='no-referrer';map.src=`https://www.google.com/maps?q=${query}&output=embed`;map.className='school-map';panel.append(map,link('Open larger map ↗',`https://www.google.com/maps/search/?api=1&query=${query}`));}
+ const actions=text('div','','visit-links');
+ if(safeURL(r?.visit_url))actions.append(link('Schedule a tour / open-house information ↗',r.visit_url));
+ else if(safeURL(s.website_url))actions.append(link('School website · check tour dates ↗',s.website_url));
+ else if(safeURL(s.url))actions.append(link('MySchools · check visit information ↗',s.url));
+ if(safeURL(r?.video_tour_url))actions.append(link('Watch video / take a virtual tour ↗',r.video_tour_url));
+ else actions.append(text('span','Video tour not yet verified.','school-meta'));
+ panel.append(actions);if(r?.video_tour_label)panel.append(text('p',r.video_tour_label,'school-meta'));if(r?.visit_note)panel.append(text('p',r.visit_note,'school-meta'));return panel;
+}
+function details(s,r){const d=text('section','','school-detail-content');d.append(text('h3',s.name,'expanded-school-title'),text('p',`${s.dbn} · District ${s.district} · Grades ${s.grades}`,'school-meta'));if(s.address)d.append(text('p',s.address,'school-meta'));if(s.intersection)d.append(text('p',s.intersection,'school-meta'));if(s.entrance_note)d.append(text('p',s.entrance_note,'school-meta'));if(s.intersection_method)d.append(text('p',s.intersection_method,'school-meta'));for(const source of s.address_sources||[])if(safeURL(source.url))d.append(link(source.title||'Location source',source.url));d.append(schoolVisit(s,r),schoolFeedback(s));if(!r){d.append(text('p','Not reviewed yet. Additional school reviews are being checked.'));return d;}
 if(r.review_status==='needs_verification')d.append(text('p','Initial admissions review — some eligibility, location or tour details still need verification.','school-meta'));
 for(const [label,value] of [['Why consider it',r.fit_summary],['Admission outlook',r.admission_assessment],['Filter classification',r.admission_category_note],['Prior-year admissions data',r.last_year||r.programs||r.admissions_data],['Evidence and limits',r.evidence],['What to check next',r.next_steps||r.questions]]){if(value){d.append(text('h3',label),text('p',describe(value),'review-copy'));}}
-if(safeURL(r.tour_url))d.append(link(r.tour_label||'School tour / visit information ↗',r.tour_url));else d.append(text('p','Tour / video: not yet verified.','school-meta'));
+
 if(r.sources){d.append(text('h3','Sources'));const list=document.createElement('ul');for(const source of r.sources){const url=typeof source==='string'?source:source.url||source.href;if(safeURL(url)){const li=document.createElement('li');li.append(link(typeof source==='string'?source:source.title||source.label||url,url));list.append(li);}}d.append(list);}return d;}
 function preferenceStore(){try{return JSON.parse(localStorage.getItem(`family-considering-${selected}`)||'{}');}catch{return {};}}
 function orderedRows(){return [...rows].sort((a,b)=>rank(a)-rank(b)||a.name.localeCompare(b.name));}
