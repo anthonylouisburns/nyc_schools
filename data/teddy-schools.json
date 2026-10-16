@@ -16,8 +16,13 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "Official location / directions",
+          "url": "https://cbmanhattan.cityofnewyork.us/cb2/event/parks-susanna-aaron-vice-chair-8/"
         }
-      ]
+      ],
+      "intersection": "Morton Street between Hudson and Greenwich Streets"
     },
     {
       "name": "Hudson River Middle School",
@@ -68,8 +73,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Forsyth Street & Hester Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Manhattan Academy of Technology/Jacob Riis",
@@ -82,8 +93,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Catherine Slip & Catherine Street & Cherry Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Battery Park City School",
@@ -96,8 +113,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 1 Place & Battery Place",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Lower Manhattan Community Middle School",
@@ -110,8 +133,19 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
+        },
+        {
+          "title": "LMC student entrance",
+          "url": "https://lmc896.org/about/hours-location/"
         }
-      ]
+      ],
+      "intersection": "Near Beaver Street & Broadway",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
+      "entrance_note": "Student entrance: 81 New Street"
     },
     {
       "name": "The Clinton School",
@@ -124,8 +158,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 5 Avenue & East 15 Street & West 15 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "School for Global Leaders",
@@ -138,8 +178,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Stanton Street & Suffolk Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "New York City Lab Middle School for Collaborative Studies",
@@ -152,8 +198,13 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "Official location / directions",
+          "url": "https://www.labmiddleschool.com/pdf/2019-20/TourBrochure2019-English.pdf"
         }
-      ]
+      ],
+      "intersection": "West 17th Street between Eighth and Ninth Avenues"
     },
     {
       "name": "P.S. 140 Nathan Straus",
@@ -166,8 +217,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Ridge Street & Rivington Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Quest to Learn",
@@ -180,8 +237,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 9 Avenue & West 18 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "University Neighborhood Middle School",
@@ -194,8 +257,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Henry Street & Montgomery Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Tompkins Square Middle School",
@@ -208,8 +277,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Avenue B & East 6 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Ballet Tech, NYC Public School for Dance",
@@ -222,8 +297,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Broadway & East 19 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "East Side Community School",
@@ -236,8 +317,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Avenue A & East 12 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 184m Shuang Wen",
@@ -250,8 +337,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Cherry Street & Montgomery Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Institute for Collaborative Education",
@@ -264,8 +357,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 1 Avenue & East 15 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "New Explorations into Science, Technology & Math",
@@ -278,8 +377,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Columbia Street & Stanton Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "School of the Future Middle and High School",
@@ -292,8 +397,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 22 Street & Lexington Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "M.S. 255 Salk School of Science",
@@ -306,8 +417,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 2 Avenue & East 20 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 188 The Island School",
@@ -320,8 +437,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Baruch Place & East Houston Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "J.H.S. 104 Simon Baruch",
@@ -334,8 +457,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 2 Avenue & East 21 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "The 47 American Sign Language & English Lower School",
@@ -348,8 +477,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 2 Avenue & East 23 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 034 Franklin D. Roosevelt",
@@ -362,8 +497,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 12 Street & Szold Place",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Professional Performing Arts School",
@@ -376,8 +517,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 8 Avenue & West 48 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Facing History School",
@@ -390,8 +537,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 10 Avenue & West 50 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "The Riverside School for Makers and Artists",
@@ -404,8 +557,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Freedom Place South & West 61 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "West End Secondary School",
@@ -418,8 +577,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near West 61 Street & West End Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S./I.S. 217 Roosevelt Island",
@@ -432,8 +597,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near North Loop Road & West Loop Road & West Main Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Special Music School",
@@ -446,8 +617,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Broadway & West 67 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Ella Baker School",
@@ -460,8 +637,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 2 Avenue & East 67 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "M.S. 245 The Computer School",
@@ -474,8 +657,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Columbus Avenue & West 77 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "M.S. M247 Dual Language Middle School",
@@ -488,8 +677,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Columbus Avenue & West 77 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "The Anderson School",
@@ -502,8 +697,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Columbus Avenue & West 77 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "J.H.S. 167 Robert F. Wagner",
@@ -516,8 +717,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 2 Avenue & East 76 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Yorkville East Middle School",
@@ -530,8 +737,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 77 Street & York Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Community Action School - MS 258",
@@ -544,8 +757,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 93 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Lafayette Academy",
@@ -558,8 +777,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 93 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 333 Manhattan School for Children",
@@ -572,8 +797,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 93 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "East Side Middle School",
@@ -586,8 +817,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 1 Avenue & East 91 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "M.S. 224 Manhattan East School for Arts & Academics",
@@ -600,8 +837,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 1 Avenue & East 100 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Young Women's Leadership School",
@@ -614,8 +857,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 102 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Central Park East II",
@@ -628,8 +877,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 100 Street & Franklin D Roosevelt Drive",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 171 Patrick Henry",
@@ -642,8 +897,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 103 Street & Madison Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "The Lexington Academy",
@@ -656,8 +917,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 104 Street & Lexington Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "J.H.S. 054 Booker T. Washington",
@@ -670,8 +937,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Columbus Avenue & West 107 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "West Prep Academy",
@@ -684,8 +957,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 108 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 108 Assemblyman Angelo Del Toro Educational Complex",
@@ -698,8 +977,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 109 Street & Madison Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Esperanza Preparatory Academy",
@@ -750,8 +1035,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Adam Clayton Powell Jr Boulevard & West 114 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Wadleigh Secondary School for the Performing & Visual Arts",
@@ -764,8 +1055,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Adam Clayton Powell Jr Boulevard & West 114 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "James Weldon Johnson",
@@ -778,8 +1075,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 3 Avenue & East 115 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Isaac Newton Middle School for Math & Science",
@@ -811,8 +1114,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Lenox Avenue & West 117 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Renaissance School of the Arts",
@@ -825,8 +1134,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 1 Avenue & East 117 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 007 Samuel Stern",
@@ -839,8 +1154,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 120 Street & Lexington Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 096 Joseph Lanzetta",
@@ -853,8 +1174,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 2 Avenue & East 120 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Mott Hall II",
@@ -867,8 +1194,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Adam Clayton Powell Jr Boulevard & West 121 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 206 Jose Celso Barbosa",
@@ -881,8 +1214,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 120 Street & Paladino Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Columbia Secondary School",
@@ -895,8 +1234,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Morningside Avenue & West 123 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "New Design Middle School",
@@ -909,8 +1254,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Adam Clayton Powell Jr Boulevard & West 127 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Teachers College Community School",
@@ -923,8 +1274,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Convent Avenue & Morningside Avenue & West 127 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Urban Assembly Academy for Future Leaders",
@@ -937,8 +1294,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 129 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "M.S. 371",
@@ -951,8 +1314,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Convent Avenue & West 130 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 161 Pedro Albizu Campos",
@@ -965,8 +1334,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Convent Avenue & West 133 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Thurgood Marshall Academy for Learning and Social Change",
@@ -979,8 +1354,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Adam Clayton Powell Jr Boulevard & West 135 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Eagle Academy for Young Men of Harlem",
@@ -993,8 +1374,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Edgecombe Avenue & West 136 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Hamilton Grange Middle School",
@@ -1007,8 +1394,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Hamilton Place & West 138 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 123 Mahalia Jackson",
@@ -1021,8 +1414,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Frederick Douglass Boulevard & West 140 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "The William Lynch School",
@@ -1035,8 +1434,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 146 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Frederick Douglass Academy",
@@ -1049,8 +1454,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Adam Clayton Powell Jr Boulevard & West 150 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership",
@@ -1063,8 +1474,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 152 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Community Health Academy of the Heights",
@@ -1077,8 +1494,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 158 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 046 Arthur Tappan",
@@ -1091,8 +1514,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Frederick Douglass Boulevard & Harlem River Drive",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Community Math & Science Prep",
@@ -1105,8 +1534,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Edgecombe Avenue & West 164 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "The Mott Hall School",
@@ -1119,8 +1554,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Edgecombe Avenue & West 164 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "M.S. 319 - Maria Teresa",
@@ -1133,8 +1574,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Jumel Place & West 168 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "M.S. 324 - Patria Mirabal",
@@ -1147,8 +1594,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Jumel Place & West 168 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 173",
@@ -1161,8 +1614,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Fort Washington Avenue & West 173 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "J.H.S. 143 Eleanor Roosevelt",
@@ -1175,8 +1634,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 182 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Washington Heights Expeditionary Learning School",
@@ -1208,8 +1673,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Wadsworth Avenue & West 182 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S./I.S. 187 Hudson Cliffs",
@@ -1222,8 +1693,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Cabrini Boulevard & West 187 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "City College Academy of the Arts",
@@ -1236,8 +1713,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Broadway & West 196 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Middle School 322",
@@ -1250,8 +1733,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Broadway & West 196 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Paula Hedbavny School",
@@ -1264,8 +1753,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 10 Avenue & Academy Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "P.S. 018 Park Terrace",
@@ -1278,8 +1773,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 10 Avenue & Academy Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Harold O. Levy School",
@@ -1292,8 +1793,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Academy Street & Vermilyea Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Washington Heights Academy",
@@ -1304,10 +1811,15 @@
       "address": "202 SHERMAN AVE, MANHATTAN, NY 10034",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+          "title": "MySchools official school/program directory (2026–27)",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/?dbn=06M366"
+        },
+        {
+          "title": "NYC Council / NYPD school-crossing inventory",
+          "url": "https://council.nyc.gov/budget/wp-content/uploads/sites/54/2018/10/School-Crossing-Guard-Data-Combined.pdf"
         }
-      ]
+      ],
+      "intersection": "Nearby crossing: Sherman Avenue and West 204th Street"
     },
     {
       "name": "Amistad Dual Language School",
@@ -1320,8 +1832,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Broadway & West 204 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     }
   ]
 }

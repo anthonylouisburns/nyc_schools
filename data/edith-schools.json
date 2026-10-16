@@ -16,8 +16,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 2 Avenue & East 23 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "A School Without Walls: Hybrid Pathway",
@@ -30,8 +36,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Thames Street & Trinity Place",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "A. Philip Randolph Campus High School",
@@ -44,8 +56,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near St Nicholas Terrace & West 135 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Academy for Software Engineering (AFSE)",
@@ -58,8 +76,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 16 Street & Irving Place",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Art and Design High School",
@@ -72,8 +96,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 2 Avenue & East 56 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Bard High School Early College",
@@ -86,8 +116,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East Houston Street & Mangin Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Baruch College Campus High School",
@@ -100,8 +136,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 25 Street & Park Avenue South",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Beacon High School",
@@ -114,8 +156,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 10 Avenue & West 44 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Business of Sports School",
@@ -128,8 +176,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 9 Avenue & West 49 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Central Park East High School",
@@ -142,8 +196,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 107 Street & Madison Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Chelsea Career and Technical Education High School",
@@ -156,8 +216,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Avenue Of The Americas & Dominick Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "City College Academy of the Arts",
@@ -170,8 +236,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Broadway & West 196 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "City-As-School",
@@ -184,8 +256,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Clarkson Street & Hudson Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "College Academy, The",
@@ -198,8 +276,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Audubon Avenue & West 193 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Columbia Secondary School",
@@ -212,8 +296,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Morningside Avenue & West 123 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Community Health Academy of the Heights",
@@ -226,8 +316,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 158 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Eagle Academy for Young Men of Harlem",
@@ -240,8 +336,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Edgecombe Avenue & West 136 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "East Side Community School",
@@ -254,8 +356,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Avenue A & East 12 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Edward A Reynolds Westside HS",
@@ -268,8 +376,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 106 Street & Park Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Eleanor Roosevelt High School",
@@ -282,8 +396,13 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "ERHS official event directions",
+          "url": "https://www.erhsnyc.org/apps/news/show_news.jsp?REC_ID=969116&id=2"
         }
-      ]
+      ],
+      "intersection": "Near East 76th Street and First Avenue"
     },
     {
       "name": "Emma Lazarus High School for English Language Scholars",
@@ -296,8 +415,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Forsyth Street & Hester Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Esperanza Preparatory Academy",
@@ -310,8 +435,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 2 Avenue & East 109 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Essex Street Academy",
@@ -324,8 +455,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Broome Street & Ludlow Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Facing History School, The",
@@ -338,8 +475,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 10 Avenue & West 50 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Fiorello H. LaGuardia High School of Music & Art and Performing Arts",
@@ -350,10 +493,15 @@
       "address": "100 Amsterdam Avenue, Manhattan, NY 10023",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools official school/program directory (2026–27)",
+          "url": "https://www.myschools.nyc/en/schools/high-school/?dbn=03M485"
+        },
+        {
+          "title": "Official LaGuardia orientation entrance directions",
+          "url": "https://www.laguardiahs.org/apps/news/show_news.jsp?REC_ID=977035&id=0"
         }
-      ]
+      ],
+      "intersection": "Amsterdam Avenue at West 65th Street"
     },
     {
       "name": "Food and Finance High School",
@@ -366,8 +514,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 10 Avenue & West 50 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Forsyth Satellite Academy",
@@ -380,8 +534,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Forsyth Street & Stanton Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Frank McCourt High School",
@@ -392,10 +552,15 @@
       "address": "145 West 84 Street, Manhattan, NY 10024",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools official school/program directory (2026–27)",
+          "url": "https://www.myschools.nyc/en/schools/high-school/?dbn=03M417"
+        },
+        {
+          "title": "Co-located Success Academy Upper West campus directions",
+          "url": "https://www.successacademies.org/school/upper-west/"
         }
-      ]
+      ],
+      "intersection": "West 84th Street between Columbus and Amsterdam Avenues"
     },
     {
       "name": "Frederick Douglass Academy",
@@ -408,8 +573,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Adam Clayton Powell Jr Boulevard & West 150 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Frederick Douglass Academy II Secondary School",
@@ -422,8 +593,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Adam Clayton Powell Jr Boulevard & West 114 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Gateway Tech",
@@ -436,8 +613,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 9 Avenue & West 49 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Global Learning Collaborative, The",
@@ -448,10 +631,15 @@
       "address": "145 West 84 Street, Manhattan, NY 10024",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools official school/program directory (2026–27)",
+          "url": "https://www.myschools.nyc/en/schools/high-school/?dbn=03M403"
+        },
+        {
+          "title": "Co-located Success Academy Upper West campus directions",
+          "url": "https://www.successacademies.org/school/upper-west/"
         }
-      ]
+      ],
+      "intersection": "West 84th Street between Columbus and Amsterdam Avenues"
     },
     {
       "name": "Gramercy Arts High School",
@@ -464,8 +652,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 16 Street & Irving Place",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Gregorio Luperon High School for Science and Mathematics",
@@ -478,8 +672,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 165 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Harvest Collegiate High School",
@@ -492,8 +692,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Avenue Of The Americas & West 14 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Harvey Milk High School",
@@ -506,8 +712,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Astor Place & Broadway",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Heritage School, The",
@@ -520,8 +732,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 105 Street & Lexington Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "High School For Climate Justice",
@@ -534,8 +752,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 1 Avenue & East 96 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "High School for Dual Language and Asian Studies",
@@ -548,8 +772,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Broome Street & Ludlow Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "High School for Environmental Studies",
@@ -562,8 +792,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 10 Avenue & West 56 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "High School for Excellence and Innovation",
@@ -576,8 +812,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Academy Street & Vermilyea Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "High School for Health Careers and Sciences",
@@ -590,8 +832,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Audubon Avenue & West 193 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "High School for Health Professions and Human Services",
@@ -604,8 +852,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 1 Avenue & East 15 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "High School for Language and Diplomacy, The",
@@ -618,8 +872,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 16 Street & Irving Place",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "High School for Law and Public Service",
@@ -632,8 +892,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Audubon Avenue & West 193 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "High School for Law, Advocacy and Community Justice",
@@ -646,8 +912,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 66 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "High School for Math, Science and Engineering at City College (HSMSE)",
@@ -655,13 +927,18 @@
       "district": 5,
       "grades": "9–12",
       "source_url": "https://www.myschools.nyc/en/schools/high-school/",
-      "address": "240 Convent Ave, Manhattan, NY 10031",
+      "address": "240 Convent Avenue, Baskerville Hall, New York, NY 10031",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "HSMSE official address",
+          "url": "https://www.hsmse.org/apps/maps/"
+        },
+        {
+          "title": "CCNY official campus map — Baskerville Hall (3)",
+          "url": "https://www.ccny.cuny.edu/sites/default/files/2021-02/448809103-The-City-Experience.pdf#page=22"
         }
-      ]
+      ],
+      "intersection": "Convent Avenue at West 140th Street (Baskerville Hall)"
     },
     {
       "name": "High School for Media and Communications",
@@ -674,8 +951,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Audubon Avenue & West 193 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "High School of Arts and Technology",
@@ -686,10 +969,15 @@
       "address": "122 Amsterdam Avenue, Manhattan, NY 10023",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools school and current program directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/03M494/"
+        },
+        {
+          "title": "Official campus directions",
+          "url": "https://www.kaufmanmusiccenter.org/sms/about/"
         }
-      ]
+      ],
+      "intersection": "Amsterdam Avenue between West 65th and West 66th Streets"
     },
     {
       "name": "High School of Economics and Finance",
@@ -702,8 +990,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Thames Street & Trinity Place",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "High School of Fashion Industries, The",
@@ -716,8 +1010,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 8 Avenue & West 24 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "High School of Hospitality Management",
@@ -730,8 +1030,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 10 Avenue & West 50 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Hudson High School of Learning Technologies",
@@ -744,8 +1050,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 9 Avenue & West 18 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Humanities Preparatory Academy",
@@ -758,8 +1070,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 9 Avenue & West 18 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Independence High School",
@@ -772,8 +1090,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 10 Avenue & West 56 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Institute for Collaborative Education (ICE)",
@@ -786,8 +1110,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 1 Avenue & East 15 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "International High School at Union Square",
@@ -800,8 +1130,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 16 Street & Irving Place",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Inwood Early College for Health and Information Technologies",
@@ -814,8 +1150,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Academy Street & Vermilyea Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Jacqueline Kennedy Onassis High School",
@@ -828,8 +1170,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Avenue Of The Americas & West 46 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "James Baldwin School, The",
@@ -842,8 +1190,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 9 Avenue & West 18 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Landmark High School",
@@ -856,8 +1210,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 9 Avenue & West 18 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Leadership and Public Service High School",
@@ -870,8 +1230,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Thames Street & Trinity Place",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Liberty High School Academy for Newcomers",
@@ -884,8 +1250,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 8 Avenue & West 18 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Lower East Side Preparatory High School",
@@ -898,8 +1270,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Stanton Street & Suffolk Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Lower Manhattan Arts Academy",
@@ -912,8 +1290,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Broome Street & Ludlow Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Manhattan / Hunter Science High School",
@@ -924,10 +1308,15 @@
       "address": "122 Amsterdam Avenue, Manhattan, NY 10023",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools school and current program directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/03M541/"
+        },
+        {
+          "title": "Official campus directions",
+          "url": "https://www.kaufmanmusiccenter.org/sms/about/"
         }
-      ]
+      ],
+      "intersection": "Amsterdam Avenue between West 65th and West 66th Streets"
     },
     {
       "name": "Manhattan Academy for Arts & Language",
@@ -938,10 +1327,15 @@
       "address": "111 EAST 33 STREET, MANHATTAN, NY 10016",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools school and current program directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/02M427/"
+        },
+        {
+          "title": "Official campus directions",
+          "url": "https://www.mhacademy.net/"
         }
-      ]
+      ],
+      "intersection": "East 33rd Street between Park and Lexington Avenues"
     },
     {
       "name": "Manhattan Bridges High School",
@@ -954,8 +1348,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 10 Avenue & West 50 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Manhattan Business Academy",
@@ -968,8 +1368,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 9 Avenue & West 18 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Manhattan Center for Science and Mathematics",
@@ -982,8 +1388,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 115 Street & Pleasant Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Manhattan Early College Academy for Marketing and Media Arts (MECA)",
@@ -996,8 +1408,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Madison Street & Pearl Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Manhattan International High School",
@@ -1008,10 +1426,15 @@
       "address": "317 East 67 Street, Manhattan, NY 10065",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools school and current program directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/02M459/"
+        },
+        {
+          "title": "Official campus directions",
+          "url": "https://www.myschools.nyc/en/calendar/event/2030/?occurence_id=4288"
         }
-      ]
+      ],
+      "intersection": "East 67th Street between First and Second Avenues"
     },
     {
       "name": "Manhattan Village Academy",
@@ -1024,8 +1447,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Avenue Of The Americas & West 22 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Millennium High School",
@@ -1038,8 +1467,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Broad Street & Marketfield Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Mott Hall High School",
@@ -1052,8 +1487,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Edgecombe Avenue & West 136 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Mott Hall II",
@@ -1066,8 +1507,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Adam Clayton Powell Jr Boulevard & West 121 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Murray Hill Academy",
@@ -1078,10 +1525,15 @@
       "address": "111 EAST 33 STREET, MANHATTAN, NY 10016",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools school and current program directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/02M432/"
+        },
+        {
+          "title": "Official campus directions",
+          "url": "https://www.mhacademy.net/"
         }
-      ]
+      ],
+      "intersection": "East 33rd Street between Park and Lexington Avenues"
     },
     {
       "name": "Murry Bergtraum High School for Business Careers",
@@ -1094,8 +1546,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Madison Street & Pearl Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "N.Y.C. Lab School for Collaborative Studies",
@@ -1108,8 +1566,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 8 Avenue & West 17 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "N.Y.C. Museum School",
@@ -1122,8 +1586,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 8 Avenue & West 17 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "New Design High School",
@@ -1136,8 +1606,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Broome Street & Ludlow Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "New Explorations into Science, Technology and Math High School (NEST+m)",
@@ -1150,8 +1626,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Columbia Street & Stanton Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "NYC iSchool",
@@ -1164,8 +1646,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Avenue Of The Americas & Dominick Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Orchard Collegiate Academy",
@@ -1178,8 +1666,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Henry Street & Montgomery Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Pace High School",
@@ -1192,8 +1686,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Forsyth Street & Hester Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Park East High School",
@@ -1206,8 +1706,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 2 Avenue & East 105 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Professional Performing Arts High School (PPAS)",
@@ -1220,8 +1726,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 8 Avenue & West 48 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Quest to Learn",
@@ -1234,8 +1746,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 9 Avenue & West 18 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Repertory Company High School for Theatre Arts",
@@ -1248,8 +1766,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Avenue Of The Americas & West 43 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Richard R. Green High School of Teaching",
@@ -1262,8 +1786,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Beaver Street & New Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "School for Global Leaders",
@@ -1276,8 +1806,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Stanton Street & Suffolk Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "School of the Future High School",
@@ -1290,8 +1826,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 22 Street & Lexington Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Special Music School",
@@ -1299,13 +1841,18 @@
       "district": 3,
       "grades": "K–12",
       "source_url": "https://www.myschools.nyc/en/schools/high-school/",
-      "address": "129 West 67 Street, Manhattan, NY 10023",
+      "address": "122 Amsterdam Avenue, Manhattan, NY 10023 (high-school campus)",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools school and current program directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/03M859/"
+        },
+        {
+          "title": "Official Special Music School campuses: separate K–8 and high-school sites",
+          "url": "https://www.kaufmanmusiccenter.org/sms/about/"
         }
-      ]
+      ],
+      "intersection": "Amsterdam Avenue between West 65th and West 66th Streets"
     },
     {
       "name": "Stephen T. Mather Building Arts & Craftsmanship High School",
@@ -1318,8 +1865,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 9 Avenue & West 49 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Stuyvesant High School",
@@ -1332,8 +1885,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Chambers Street & North End Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Talent Unlimited High School",
@@ -1344,10 +1903,15 @@
       "address": "317 East 67 Street, Manhattan, NY 10065",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools school and current program directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/02M519/"
+        },
+        {
+          "title": "Official campus directions",
+          "url": "https://www.myschools.nyc/en/calendar/event/2030/?occurence_id=4288"
         }
-      ]
+      ],
+      "intersection": "East 67th Street between First and Second Avenues"
     },
     {
       "name": "The Clinton School",
@@ -1360,8 +1924,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 5 Avenue & East 15 Street & West 15 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "The Urban Assembly Early College High School of Emergency Medicine",
@@ -1374,8 +1944,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Madison Street & Pearl Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Thurgood Marshall Academy for Learning and Social Change",
@@ -1388,8 +1964,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Adam Clayton Powell Jr Boulevard & West 135 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Union Square Academy for Health Sciences",
@@ -1402,8 +1984,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 16 Street & Irving Place",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Unity Center for Urban Technologies",
@@ -1414,10 +2002,15 @@
       "address": "111 EAST 33 STREET, MANHATTAN, NY 10016",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools school and current program directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/02M500/"
+        },
+        {
+          "title": "Official campus directions",
+          "url": "https://www.mhacademy.net/"
         }
-      ]
+      ],
+      "intersection": "East 33rd Street between Park and Lexington Avenues"
     },
     {
       "name": "University Neighborhood High School",
@@ -1430,8 +2023,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Gouverneur Street & Monroe Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Urban Academy Laboratory High School",
@@ -1442,10 +2041,15 @@
       "address": "317 EAST 67 STREET, MANHATTAN, NY 10065",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools school and current program directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/02M565/"
+        },
+        {
+          "title": "Official campus directions",
+          "url": "https://www.myschools.nyc/en/calendar/event/2030/?occurence_id=4288"
         }
-      ]
+      ],
+      "intersection": "East 67th Street between First and Second Avenues"
     },
     {
       "name": "Urban Assembly Academy of Government and Law, The",
@@ -1458,8 +2062,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Broome Street & Ludlow Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Urban Assembly Maker Academy",
@@ -1472,8 +2082,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Madison Street & Pearl Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Urban Assembly New York Harbor School",
@@ -1481,13 +2097,22 @@
       "district": 2,
       "grades": "9–14",
       "source_url": "https://www.myschools.nyc/en/schools/high-school/",
-      "address": "10 South Street Slip 7, Manhattan, NY 10004",
+      "address": "550 Short Avenue, Governors Island, NY 10004",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools school and current program directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/02M551/"
+        },
+        {
+          "title": "Official Harbor School family guide: physical and mailing addresses",
+          "url": "https://www.newyorkharborschool.org/_files/ugd/c44531_2c0cb06a793f42dabe54a85cc3916da6.pdf"
+        },
+        {
+          "title": "NYC Community Board 1 Harbor School campus site plan",
+          "url": "https://www.nyc.gov/assets/manhattancb1/downloads/pdf/board-meeting-presentations/23-12-20.pdf"
         }
-      ]
+      ],
+      "intersection": "Short Avenue near Clayton Road, Governors Island (ferry from 10 South Street)"
     },
     {
       "name": "Urban Assembly School for Global Commerce, The",
@@ -1500,8 +2125,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near East 127 Street & Madison Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Urban Assembly School for Green Careers, The",
@@ -1514,8 +2145,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Columbus Avenue & West 84 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Urban Assembly School for Media Studies, The",
@@ -1526,10 +2163,15 @@
       "address": "122 Amsterdam Avenue, Manhattan, NY 10023",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools school and current program directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/03M307/"
+        },
+        {
+          "title": "Official campus directions",
+          "url": "https://www.kaufmanmusiccenter.org/sms/about/"
         }
-      ]
+      ],
+      "intersection": "Amsterdam Avenue between West 65th and West 66th Streets"
     },
     {
       "name": "Urban Assembly School for the Performing Arts",
@@ -1542,8 +2184,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 129 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Urban Assembly School of Design and Construction, The",
@@ -1556,8 +2204,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near 10 Avenue & West 50 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Vanguard High School",
@@ -1568,10 +2222,15 @@
       "address": "317 East 67 Street, Manhattan, NY 10065",
       "address_sources": [
         {
-          "title": "MySchools official directory",
-          "url": "https://www.myschools.nyc/en/schools/high-school/"
+          "title": "MySchools school and current program directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/02M449/"
+        },
+        {
+          "title": "Official campus directions",
+          "url": "https://www.myschools.nyc/en/calendar/event/2030/?occurence_id=4288"
         }
-      ]
+      ],
+      "intersection": "East 67th Street between First and Second Avenues"
     },
     {
       "name": "Wadleigh Secondary School for the Performing & Visual Arts",
@@ -1584,8 +2243,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Adam Clayton Powell Jr Boulevard & West 114 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Washington Heights Expeditionary Learning School (WHEELS)",
@@ -1598,8 +2263,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 182 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "West End Secondary School",
@@ -1612,8 +2283,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near West 61 Street & West End Avenue",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     },
     {
       "name": "Young Women's Leadership School (TYWLS)",
@@ -1626,8 +2303,14 @@
         {
           "title": "MySchools official directory",
           "url": "https://www.myschools.nyc/en/schools/high-school/"
+        },
+        {
+          "title": "NYC Department of City Planning LION street geometry",
+          "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/LION/FeatureServer/0"
         }
-      ]
+      ],
+      "intersection": "Near Amsterdam Avenue & West 102 Street",
+      "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance."
     }
   ]
 }
