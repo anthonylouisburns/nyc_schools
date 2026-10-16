@@ -1,0 +1,28 @@
+{
+  "name": "schools",
+  "version": "1.0.0",
+  "description": "Manhattan school guide with private family reviews and durable shared notes",
+  "main": "index.js",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "deploy:backend": "convex deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonylouisburns/nyc_schools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anthonylouisburns/nyc_schools/issues"
+  },
+  "homepage": "https://github.com/anthonylouisburns/nyc_schools#readme",
+  "dependencies": {
+    "@types/node": "^26.6.5",
+    "convex": "^1.47.0",
+    "typescript": "^7.0.2"
+  },
+  "private": true
+}

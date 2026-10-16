@@ -1,0 +1,653 @@
+{
+  "student": "Teddy",
+  "entry_grade": 6,
+  "checked_on": "2026-10-16",
+  "source": "MySchools middle-school search, signed-in view, districts 1–6; all ten pages",
+  "scope": "Directory inventory, not a verified personal eligibility list. Program restrictions, available entry grades and admissions requirements need individual review. Grade ranges transcribed as displayed. Private schools, charter schools outside this directory and other separate admissions routes are not included.",
+  "schools": [
+    {
+      "name": "M.S. 297 (75 Morton)",
+      "dbn": "02M297",
+      "district": 2,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Hudson River Middle School",
+      "dbn": "02M289",
+      "district": 2,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Spruce Street School",
+      "dbn": "02M397",
+      "district": 2,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Sun Yat Sen Middle School",
+      "dbn": "02M131",
+      "district": 2,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Manhattan Academy of Technology/Jacob Riis",
+      "dbn": "02M126",
+      "district": 2,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Battery Park City School",
+      "dbn": "02M276",
+      "district": 2,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Lower Manhattan Community Middle School",
+      "dbn": "02M896",
+      "district": 2,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "The Clinton School",
+      "dbn": "02M260",
+      "district": 2,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "School for Global Leaders",
+      "dbn": "01M378",
+      "district": 1,
+      "grades": "6–9",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "New York City Lab Middle School for Collaborative Studies",
+      "dbn": "02M312",
+      "district": 2,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 140 Nathan Straus",
+      "dbn": "01M140",
+      "district": 1,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Quest to Learn",
+      "dbn": "02M422",
+      "district": 2,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "University Neighborhood Middle School",
+      "dbn": "01M332",
+      "district": 1,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Tompkins Square Middle School",
+      "dbn": "01M839",
+      "district": 1,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Ballet Tech, NYC Public School for Dance",
+      "dbn": "02M442",
+      "district": 2,
+      "grades": "4–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "East Side Community School",
+      "dbn": "01M450",
+      "district": 1,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 184m Shuang Wen",
+      "dbn": "01M184",
+      "district": 1,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Institute for Collaborative Education",
+      "dbn": "02M407",
+      "district": 2,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "New Explorations into Science, Technology & Math",
+      "dbn": "01M539",
+      "district": 1,
+      "grades": "K–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "School of the Future Middle and High School",
+      "dbn": "02M413",
+      "district": 2,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "M.S. 255 Salk School of Science",
+      "dbn": "02M255",
+      "district": 2,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 188 The Island School",
+      "dbn": "01M188",
+      "district": 1,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "J.H.S. 104 Simon Baruch",
+      "dbn": "02M104",
+      "district": 2,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "The 47 American Sign Language & English Lower School",
+      "dbn": "02M347",
+      "district": 2,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 034 Franklin D. Roosevelt",
+      "dbn": "01M034",
+      "district": 1,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Professional Performing Arts School",
+      "dbn": "02M408",
+      "district": 2,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Facing History School",
+      "dbn": "02M303",
+      "district": 2,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "The Riverside School for Makers and Artists",
+      "dbn": "03M191",
+      "district": 3,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "West End Secondary School",
+      "dbn": "03M291",
+      "district": 3,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S./I.S. 217 Roosevelt Island",
+      "dbn": "02M217",
+      "district": 2,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Special Music School",
+      "dbn": "03M859",
+      "district": 3,
+      "grades": "K–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Ella Baker School",
+      "dbn": "02M225",
+      "district": 2,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "M.S. 245 The Computer School",
+      "dbn": "03M245",
+      "district": 3,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "M.S. M247 Dual Language Middle School",
+      "dbn": "03M247",
+      "district": 3,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "The Anderson School",
+      "dbn": "03M334",
+      "district": 3,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "J.H.S. 167 Robert F. Wagner",
+      "dbn": "02M167",
+      "district": 2,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Yorkville East Middle School",
+      "dbn": "02M177",
+      "district": 2,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Community Action School - MS 258",
+      "dbn": "03M258",
+      "district": 3,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Lafayette Academy",
+      "dbn": "03M256",
+      "district": 3,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 333 Manhattan School for Children",
+      "dbn": "03M333",
+      "district": 3,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "East Side Middle School",
+      "dbn": "02M114",
+      "district": 2,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "M.S. 224 Manhattan East School for Arts & Academics",
+      "dbn": "04M224",
+      "district": 4,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Young Women's Leadership School",
+      "dbn": "03M610",
+      "district": 3,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Central Park East II",
+      "dbn": "04M964",
+      "district": 4,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 171 Patrick Henry",
+      "dbn": "04M171",
+      "district": 4,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "The Lexington Academy",
+      "dbn": "04M072",
+      "district": 4,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "J.H.S. 054 Booker T. Washington",
+      "dbn": "03M054",
+      "district": 3,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "West Prep Academy",
+      "dbn": "03M421",
+      "district": 3,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 108 Assemblyman Angelo Del Toro Educational Complex",
+      "dbn": "04M108",
+      "district": 4,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Esperanza Preparatory Academy",
+      "dbn": "04M372",
+      "district": 4,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Tag Young Scholars",
+      "dbn": "04M012",
+      "district": 4,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Frederick Douglass Academy II Secondary School",
+      "dbn": "03M860",
+      "district": 3,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Wadleigh Secondary School for the Performing & Visual Arts",
+      "dbn": "03M415",
+      "district": 3,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "James Weldon Johnson",
+      "dbn": "04M057",
+      "district": 4,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Isaac Newton Middle School for Math & Science",
+      "dbn": "04M825",
+      "district": 4,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 149 Sojourner Truth",
+      "dbn": "03M149",
+      "district": 3,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Renaissance School of the Arts",
+      "dbn": "04M377",
+      "district": 4,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 007 Samuel Stern",
+      "dbn": "04M007",
+      "district": 4,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 096 Joseph Lanzetta",
+      "dbn": "04M096",
+      "district": 4,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Mott Hall II",
+      "dbn": "03M862",
+      "district": 3,
+      "grades": "6–9",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 206 Jose Celso Barbosa",
+      "dbn": "04M206",
+      "district": 4,
+      "grades": "3–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Columbia Secondary School",
+      "dbn": "05M362",
+      "district": 5,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "New Design Middle School",
+      "dbn": "05M514",
+      "district": 5,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Teachers College Community School",
+      "dbn": "05M517",
+      "district": 5,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Urban Assembly Academy for Future Leaders",
+      "dbn": "05M286",
+      "district": 5,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "M.S. 371",
+      "dbn": "05M371",
+      "district": 5,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 161 Pedro Albizu Campos",
+      "dbn": "05M161",
+      "district": 5,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Thurgood Marshall Academy for Learning and Social Change",
+      "dbn": "05M670",
+      "district": 5,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Eagle Academy for Young Men of Harlem",
+      "dbn": "05M148",
+      "district": 5,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Hamilton Grange Middle School",
+      "dbn": "06M209",
+      "district": 6,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 123 Mahalia Jackson",
+      "dbn": "05M123",
+      "district": 5,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "The William Lynch School",
+      "dbn": "06M368",
+      "district": 6,
+      "grades": "K–7",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Frederick Douglass Academy",
+      "dbn": "05M499",
+      "district": 5,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership",
+      "dbn": "06M210",
+      "district": 6,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Community Health Academy of the Heights",
+      "dbn": "06M346",
+      "district": 6,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 046 Arthur Tappan",
+      "dbn": "05M046",
+      "district": 5,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Community Math & Science Prep",
+      "dbn": "06M328",
+      "district": 6,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "The Mott Hall School",
+      "dbn": "06M223",
+      "district": 6,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "M.S. 319 - Maria Teresa",
+      "dbn": "06M319",
+      "district": 6,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "M.S. 324 - Patria Mirabal",
+      "dbn": "06M324",
+      "district": 6,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 173",
+      "dbn": "06M173",
+      "district": 6,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "J.H.S. 143 Eleanor Roosevelt",
+      "dbn": "06M143",
+      "district": 6,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Washington Heights Expeditionary Learning School",
+      "dbn": "06M348",
+      "district": 6,
+      "grades": "K–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "I.S. 528 Bea Fuller Rodgers School",
+      "dbn": "06M528",
+      "district": 6,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S./I.S. 187 Hudson Cliffs",
+      "dbn": "06M187",
+      "district": 6,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "City College Academy of the Arts",
+      "dbn": "06M293",
+      "district": 6,
+      "grades": "6–12",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Middle School 322",
+      "dbn": "06M322",
+      "district": 6,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Paula Hedbavny School",
+      "dbn": "06M278",
+      "district": 6,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "P.S. 018 Park Terrace",
+      "dbn": "06M018",
+      "district": 6,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Harold O. Levy School",
+      "dbn": "06M052",
+      "district": 6,
+      "grades": "6–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Washington Heights Academy",
+      "dbn": "06M366",
+      "district": 6,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    },
+    {
+      "name": "Amistad Dual Language School",
+      "dbn": "06M311",
+      "district": 6,
+      "grades": "K–8",
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+    }
+  ]
+}

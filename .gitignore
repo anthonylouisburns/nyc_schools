@@ -2,3 +2,7 @@
 private-notes/
 source-private/
 *.zip
+node_modules/
+.env*
+*.local.json
+.DS_Store
