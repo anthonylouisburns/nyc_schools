@@ -3,7 +3,7 @@
   "entry_grade": 9,
   "checked_on": "2026-10-16",
   "source": "MySchools public high-school directory; all 16 pages inspected (452 citywide school listings), Manhattan DBNs retained",
-  "scope": "Directory inventory, not a verified personal eligibility list. Includes transfer schools, schools for new arrivals, specialized schools and other restricted programs. Grade ranges transcribed as displayed. Individual eligibility and grade 9 entry must be reviewed. Links open the source directory.",
+  "scope": "Manhattan public-school inventory plus family-requested private schools and Brooklyn Tech. Private schools use direct applications; specialized high schools use separate SHSAT selection. Eligibility and support needs require individual confirmation.",
   "schools": [
     {
       "name": "47 The American Sign Language and English Secondary School",
@@ -2427,6 +2427,61 @@
       "intersection": "Near Amsterdam Avenue & West 102 Street",
       "intersection_method": "Nearby intersection derived from NYC’s official LION street map and the MySchools building location. Approximate; confirm the visitor/student entrance.",
       "website_url": "https://www.tywls.org/"
+    },
+    {
+      "dbn": "private-dominican-academy",
+      "name": "Dominican Academy",
+      "district": "2",
+      "grades": "9–12",
+      "school_type": "Catholic private · Direct application",
+      "address": "44 East 68th Street, New York, NY 10065",
+      "intersection": "East 68th Street between Park and Madison Avenues",
+      "source_url": "https://www.dominicanacademy.org/admissions/how-to-apply",
+      "website_url": "https://www.dominicanacademy.org/",
+      "address_sources": [
+        {
+          "title": "Dominican Academy official visit directions",
+          "url": "https://www.dominicanacademy.org/admissions/visit-us"
+        }
+      ]
+    },
+    {
+      "dbn": "private-notre-dame",
+      "name": "Notre Dame School of Manhattan",
+      "district": "2",
+      "grades": "9–12",
+      "school_type": "Catholic private · Direct application",
+      "address": "327 West 13th Street, New York, NY 10014",
+      "intersection": "West 13th Street between Eighth Avenue and Hudson Street",
+      "source_url": "https://www.cheznous.org/admissions/apply-to-notre-dame",
+      "website_url": "https://www.cheznous.org/",
+      "address_sources": [
+        {
+          "title": "Notre Dame official directions",
+          "url": "https://www.cheznous.org/directions-to-notre-dame-school"
+        }
+      ]
+    },
+    {
+      "dbn": "13K430",
+      "name": "Brooklyn Technical High School (Brooklyn Tech)",
+      "district": "13",
+      "grades": "9–12",
+      "school_type": "Public specialized · SHSAT · Brooklyn",
+      "address": "29 Fort Greene Place, Brooklyn, NY 11217",
+      "intersection": "Fort Greene Place between DeKalb and Lafayette Avenues",
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/13K430/",
+      "website_url": "https://www.bths.edu/",
+      "address_sources": [
+        {
+          "title": "Brooklyn Tech official address and directions",
+          "url": "https://www.bths.edu/apps/pages/index.jsp?pREC_ID=444736&termREC_ID=&type=d&uREC_ID=229356"
+        },
+        {
+          "title": "Building location and cross streets",
+          "url": "https://www.brownstoner.com/architecture/building-of-the-day-29-fort-greene-place-brooklyn-tech-part-2/"
+        }
+      ]
     }
   ]
 }

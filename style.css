@@ -13,3 +13,5 @@
 .school-visit{margin:18px 0 24px;display:flow-root}.school-map{display:block;width:100%;max-width:460px;height:230px;border:1px solid var(--line);border-radius:7px;margin:10px 0;background:#e8eae4}.visit-links{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center;margin-top:16px}.visit-links a{display:inline-block;padding:9px 13px;border:1px solid var(--line);border-radius:5px;background:#f5f3ed;font-weight:600;font-size:13px}.school-visit h3{margin-top:0}@media(min-width:900px){.school-map{float:right;margin:0 0 15px 28px;width:42%}}
 
 .school-detail-content>a{display:inline-block;margin-right:14px;margin-bottom:5px}
+
+.guide-lock{background:transparent;border:1px solid var(--line);border-radius:5px;color:var(--ink);font:inherit;font-size:12px;padding:6px 10px;cursor:pointer;margin-left:14px}

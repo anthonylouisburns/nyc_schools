@@ -2,6 +2,9 @@ import { httpRouter } from 'convex/server';
 import { httpAction } from './_generated/server';
 import { internal } from './_generated/api';
 const router=httpRouter();
+// Private schools use explicit stable IDs; existing public-school note keys stay unchanged.
+const privateSchools=new Set(['private-dominican-academy','private-notre-dame','private-blessed-sacrament','private-stephen-gaynor','private-gateway']);
+function validSchool(value:unknown){return typeof value==='string'&&(/^0[1-6]M\d{3}$/.test(value)||value==='13K430'||privateSchools.has(value));}
 const allowed=new Set(['https://anthonylouisburns.github.io','http://127.0.0.1:8765','http://127.0.0.1:8766','http://127.0.0.1:8767','http://127.0.0.1:8768']);
 function headers(request:Request){const origin=request.headers.get('Origin');return {'Content-Type':'application/json','Cache-Control':'no-store','Vary':'Origin',...(origin&&allowed.has(origin)?{'Access-Control-Allow-Origin':origin}:{}),'Access-Control-Allow-Headers':'Content-Type, Authorization','Access-Control-Allow-Methods':'POST, OPTIONS'};}
 function reply(request:Request,value:unknown,status=200){return new Response(JSON.stringify(value),{status,headers:headers(request)});}
@@ -17,7 +20,7 @@ for(const path of ['/notes/read','/notes/add','/schools/status']){
   if(!await authorized(request))return reply(request,{error:'Please unlock family access.'},401);
   if(Number(request.headers.get('Content-Length')??'0')>24000)return reply(request,{error:'Note is too long.'},413);
   let body;try{const raw=await request.text();if(raw.length>24000)return reply(request,{error:'Note is too long.'},413);body=JSON.parse(raw);}catch{return reply(request,{error:'Invalid request.'},400);}
-  if(!['teddy','edith'].includes(body.student)||!/^0[1-6]M\d{3}$/.test(body.dbn))return reply(request,{error:'Invalid school.'},400);
+  if(!['teddy','edith'].includes(body.student)||!validSchool(body.dbn))return reply(request,{error:'Invalid school.'},400);
   const student=body.student as 'teddy'|'edith',dbn=body.dbn;
   try{
    if(path==='/notes/read'){
