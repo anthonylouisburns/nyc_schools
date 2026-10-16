@@ -10,644 +10,1318 @@
       "dbn": "02M297",
       "district": 2,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "75 MORTON STREET, MANHATTAN, NY 10014",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Hudson River Middle School",
       "dbn": "02M289",
       "district": 2,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "201 WARREN STREET, MANHATTAN, NY 10282",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        },
+        {
+          "title": "Hudson River Middle School directions",
+          "url": "https://siteadmin289.wixsite.com/is289-new/contact-us"
+        }
+      ],
+      "intersection": "Warren Street at West Street (northwest corner)"
     },
     {
       "name": "Spruce Street School",
       "dbn": "02M397",
       "district": 2,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "12 SPRUCE STREET, MANHATTAN, NY 10038",
+      "address_sources": [
+        {
+          "title": "Official MySchools address",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/02M397/"
+        },
+        {
+          "title": "Manhattan Community Board 1 street-safety resolution",
+          "url": "https://www.nyc.gov/assets/manhattancb1/downloads/pdf/resolutions/19-02.pdf"
+        }
+      ],
+      "intersection": "Spruce Street between Nassau Street and Gold Street"
     },
     {
       "name": "Sun Yat Sen Middle School",
       "dbn": "02M131",
       "district": 2,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "100 HESTER STREET, MANHATTAN, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Manhattan Academy of Technology/Jacob Riis",
       "dbn": "02M126",
       "district": 2,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "80 CATHERINE STREET, MANHATTAN, NY 10038",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Battery Park City School",
       "dbn": "02M276",
       "district": 2,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "55 BATTERY PLACE, MANHATTAN, NY 10280",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Lower Manhattan Community Middle School",
       "dbn": "02M896",
       "district": 2,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "26 BROADWAY, MANHATTAN, NY 10004",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "The Clinton School",
       "dbn": "02M260",
       "district": 2,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "10 EAST 15 STREET, MANHATTAN, NY 10003",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "School for Global Leaders",
       "dbn": "01M378",
       "district": 1,
       "grades": "6–9",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "145 STANTON STREET, MANHATTAN, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "New York City Lab Middle School for Collaborative Studies",
       "dbn": "02M312",
       "district": 2,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "333 WEST 17 STREET, MANHATTAN, NY 10011",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 140 Nathan Straus",
       "dbn": "01M140",
       "district": 1,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "123 RIDGE STREET, MANHATTAN, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Quest to Learn",
       "dbn": "02M422",
       "district": 2,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "351 West 18 Street, Manhattan, NY 10011",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "University Neighborhood Middle School",
       "dbn": "01M332",
       "district": 1,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "220 HENRY STREET, MANHATTAN, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Tompkins Square Middle School",
       "dbn": "01M839",
       "district": 1,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "600 EAST 6 STREET, MANHATTAN, NY 10009",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Ballet Tech, NYC Public School for Dance",
       "dbn": "02M442",
       "district": 2,
       "grades": "4–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "890 BROADWAY, MANHATTAN, NY 10003",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "East Side Community School",
       "dbn": "01M450",
       "district": 1,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "420 East 12 Street, Manhattan, NY 10009",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 184m Shuang Wen",
       "dbn": "01M184",
       "district": 1,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "327 Cherry Street, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Institute for Collaborative Education",
       "dbn": "02M407",
       "district": 2,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "345 EAST 15 STREET, MANHATTAN, NY 10003",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "New Explorations into Science, Technology & Math",
       "dbn": "01M539",
       "district": 1,
       "grades": "K–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "111 COLUMBIA STREET, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "School of the Future Middle and High School",
       "dbn": "02M413",
       "district": 2,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "127 East 22 Street, Manhattan, NY 10010",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "M.S. 255 Salk School of Science",
       "dbn": "02M255",
       "district": 2,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "320 EAST 20TH STREET, MANHATTAN, NY 10003",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 188 The Island School",
       "dbn": "01M188",
       "district": 1,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "442 EAST HOUSTON STREET, NEW YORK, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "J.H.S. 104 Simon Baruch",
       "dbn": "02M104",
       "district": 2,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "330 EAST 21 STREET, MANHATTAN, NY 10010",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "The 47 American Sign Language & English Lower School",
       "dbn": "02M347",
       "district": 2,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "223 EAST 23 STREET, MANHATTAN, NY 10010",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 034 Franklin D. Roosevelt",
       "dbn": "01M034",
       "district": 1,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "730 EAST 12 STREET, MANHATTAN, NY 10009",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Professional Performing Arts School",
       "dbn": "02M408",
       "district": 2,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "328 West 48 Street, Manhattan, NY 10036",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Facing History School",
       "dbn": "02M303",
       "district": 2,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "525 WEST 50 STREET, MANHATTAN, NY 10019",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "The Riverside School for Makers and Artists",
       "dbn": "03M191",
       "district": 3,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "300 WEST 61 STREET, Manhattan, NY 10023",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "West End Secondary School",
       "dbn": "03M291",
       "district": 3,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "227-243 WEST 61 STREET, MANHATTAN, NY 10023",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S./I.S. 217 Roosevelt Island",
       "dbn": "02M217",
       "district": 2,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "645 MAIN STREET, MANHATTAN, NY 10044",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Special Music School",
       "dbn": "03M859",
       "district": 3,
       "grades": "K–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "129 West 67 Street, Manhattan, NY 10023",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Ella Baker School",
       "dbn": "02M225",
       "district": 2,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "317 EAST 67 STREET, MANHATTAN, NY 10065",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "M.S. 245 The Computer School",
       "dbn": "03M245",
       "district": 3,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "100 WEST 77 STREET, MANHATTAN, NY 10024",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "M.S. M247 Dual Language Middle School",
       "dbn": "03M247",
       "district": 3,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "100 WEST 77 STREET, MANHATTAN, NY 10024",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "The Anderson School",
       "dbn": "03M334",
       "district": 3,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "100 WEST 77 STREET, MANHATTAN, NY 10024",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "J.H.S. 167 Robert F. Wagner",
       "dbn": "02M167",
       "district": 2,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "220 EAST 76 STREET, MANHATTAN, NY 10021",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Yorkville East Middle School",
       "dbn": "02M177",
       "district": 2,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "1458 YORK AVENUE, MANHATTAN, NY 10075",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Community Action School - MS 258",
       "dbn": "03M258",
       "district": 3,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "154 WEST 93 STREET, MANHATTAN, NY 10025",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Lafayette Academy",
       "dbn": "03M256",
       "district": 3,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "154 WEST 93 STREET, MANHATTAN, NY 10025",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 333 Manhattan School for Children",
       "dbn": "03M333",
       "district": 3,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "154 WEST 93 STREET, MANHATTAN, NY 10025",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "East Side Middle School",
       "dbn": "02M114",
       "district": 2,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "331 EAST 91ST STREET, MANHATTAN, NY 10128",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "M.S. 224 Manhattan East School for Arts & Academics",
       "dbn": "04M224",
       "district": 4,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "410 EAST 100 STREET, MANHATTAN, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Young Women's Leadership School",
       "dbn": "03M610",
       "district": 3,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "140 West 102 Street, New York, NY 10025",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Central Park East II",
       "dbn": "04M964",
       "district": 4,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "433 EAST 100 STREET, MANHATTAN, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 171 Patrick Henry",
       "dbn": "04M171",
       "district": 4,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "19 EAST 103 STREET, MANHATTAN, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "The Lexington Academy",
       "dbn": "04M072",
       "district": 4,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "131 EAST 104 STREET, MANHATTAN, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "J.H.S. 054 Booker T. Washington",
       "dbn": "03M054",
       "district": 3,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "103 WEST 107 STREET, MANHATTAN, NY 10025",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "West Prep Academy",
       "dbn": "03M421",
       "district": 3,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "220 WEST 108th STREET, MANHATTAN, NY 10025",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 108 Assemblyman Angelo Del Toro Educational Complex",
       "dbn": "04M108",
       "district": 4,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "1615 MADISON AVENUE, MANHATTAN, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Esperanza Preparatory Academy",
       "dbn": "04M372",
       "district": 4,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "240 East 109 Street, Manhattan, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official school/program directory (2026–27)",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/?dbn=04M372"
+        },
+        {
+          "title": "TAG PTA campus welcome packet (shared 240 East 109th Street campus)",
+          "url": "https://www.tagscholarspta.org/uploads/1/9/9/3/19935767/tagpta_welcomepacket_2018.pdf"
+        }
+      ],
+      "intersection": "East 109th Street between Second and Third Avenues"
     },
     {
       "name": "Tag Young Scholars",
       "dbn": "04M012",
       "district": 4,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "240 EAST 109 STREET, MANHATTAN, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official school/program directory (2026–27)",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/?dbn=04M012"
+        },
+        {
+          "title": "TAG PTA campus welcome packet (shared 240 East 109th Street campus)",
+          "url": "https://www.tagscholarspta.org/uploads/1/9/9/3/19935767/tagpta_welcomepacket_2018.pdf"
+        }
+      ],
+      "intersection": "East 109th Street between Second and Third Avenues"
     },
     {
       "name": "Frederick Douglass Academy II Secondary School",
       "dbn": "03M860",
       "district": 3,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "215 West 114 Street, Manhattan, NY 10026",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Wadleigh Secondary School for the Performing & Visual Arts",
       "dbn": "03M415",
       "district": 3,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "215 West 114 Street, Manhattan, NY 10026",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "James Weldon Johnson",
       "dbn": "04M057",
       "district": 4,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "176 EAST 115 STREET, MANHATTAN, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Isaac Newton Middle School for Math & Science",
       "dbn": "04M825",
       "district": 4,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "260 PLEASANT AVENUE, MANHATTAN, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official school/program directory (2026–27)",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/?dbn=04M825"
+        },
+        {
+          "title": "City College course-location directions, 260 Pleasant Avenue",
+          "url": "https://www.ccny.cuny.edu/collegenow/fall-2023-course-offerings-and-descriptions"
+        }
+      ],
+      "intersection": "Pleasant Avenue at East 116th Street"
     },
     {
       "name": "P.S. 149 Sojourner Truth",
       "dbn": "03M149",
       "district": 3,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "41 West 117 Street, Manhattan, NY 10026",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Renaissance School of the Arts",
       "dbn": "04M377",
       "district": 4,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "319 EAST 117 STREET, MANHATTAN, NY 10035",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 007 Samuel Stern",
       "dbn": "04M007",
       "district": 4,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "160 EAST 120 STREET, MANHATTAN, NY 10035",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 096 Joseph Lanzetta",
       "dbn": "04M096",
       "district": 4,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "216 EAST 120 STREET, MANHATTAN, NY 10035",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Mott Hall II",
       "dbn": "03M862",
       "district": 3,
       "grades": "6–9",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "220 WEST 121 STREET, MANHATTAN, NY 10027",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 206 Jose Celso Barbosa",
       "dbn": "04M206",
       "district": 4,
       "grades": "3–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "508 EAST 120 STREET, MANHATTAN, NY 10035",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Columbia Secondary School",
       "dbn": "05M362",
       "district": 5,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "425 West 123 Street, Manhattan, NY 10027",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "New Design Middle School",
       "dbn": "05M514",
       "district": 5,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "250 WEST 127 STREET, MANHATTAN, NY 10027",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Teachers College Community School",
       "dbn": "05M517",
       "district": 5,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "168 MORNINGSIDE AVENUE, MANHATTAN, NY 10027",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Urban Assembly Academy for Future Leaders",
       "dbn": "05M286",
       "district": 5,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "509 WEST 129 STREET, MANHATTAN, NY 10027",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "M.S. 371",
       "dbn": "05M371",
       "district": 5,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "425 West 130 Street, New York, NY 10027",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 161 Pedro Albizu Campos",
       "dbn": "05M161",
       "district": 5,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "499 WEST 133 STREET, MANHATTAN, NY 10027",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Thurgood Marshall Academy for Learning and Social Change",
       "dbn": "05M670",
       "district": 5,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "200-214 WEST 135 STREET, MANHATTAN, NY 10030",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Eagle Academy for Young Men of Harlem",
       "dbn": "05M148",
       "district": 5,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "6 Edgecombe Avenue, Manhattan, NY 10030",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Hamilton Grange Middle School",
       "dbn": "06M209",
       "district": 6,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "500 WEST 138 STREET, MANHATTAN, NY 10031",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 123 Mahalia Jackson",
       "dbn": "05M123",
       "district": 5,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "301 WEST 140 STREET, MANHATTAN, NY 10030",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "The William Lynch School",
       "dbn": "06M368",
       "district": 6,
       "grades": "K–7",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "1750 AMSTERDAM AVENUE, MANHATTAN, NY 10031",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Frederick Douglass Academy",
       "dbn": "05M499",
       "district": 5,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "2581 7 AVENUE, MANHATTAN, NY 10039",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership",
       "dbn": "06M210",
       "district": 6,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "501-503 WEST 152 STREET, MANHATTAN, NY 10031",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Community Health Academy of the Heights",
       "dbn": "06M346",
       "district": 6,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "504 WEST 158 STREET, MANHATTAN, NY 10032",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 046 Arthur Tappan",
       "dbn": "05M046",
       "district": 5,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "2987 FREDERICK DOUGLASS BOULEVARD, MANHATTAN, NY 10039",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Community Math & Science Prep",
       "dbn": "06M328",
       "district": 6,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "401 WEST 164 STREET, MANHATTAN, NY 10032",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "The Mott Hall School",
       "dbn": "06M223",
       "district": 6,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "401 W. 164th Street, MANHATTAN, NY 10032",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "M.S. 319 - Maria Teresa",
       "dbn": "06M319",
       "district": 6,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "21 JUMEL PLACE, MANHATTAN, NY 10032",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "M.S. 324 - Patria Mirabal",
       "dbn": "06M324",
       "district": 6,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "21 JUMEL PLACE, MANHATTAN, NY 10032",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 173",
       "dbn": "06M173",
       "district": 6,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "306 FORT WASHINGTON AVENUE, MANHATTAN, NY 10033",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "J.H.S. 143 Eleanor Roosevelt",
       "dbn": "06M143",
       "district": 6,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "511 WEST 182ND STREET, MANHATTAN, NY 10033",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Washington Heights Expeditionary Learning School",
       "dbn": "06M348",
       "district": 6,
       "grades": "K–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "511 West 182 Street, Manhattan, NY 10033",
+      "address_sources": [
+        {
+          "title": "MySchools official school/program directory (2026–27)",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/?dbn=06M348"
+        },
+        {
+          "title": "City College school-location directions",
+          "url": "https://www.ccny.cuny.edu/collegenow/fall-2023-course-offerings-and-descriptions"
+        }
+      ],
+      "intersection": "West 182nd Street between Amsterdam and Audubon Avenues"
     },
     {
       "name": "I.S. 528 Bea Fuller Rodgers School",
       "dbn": "06M528",
       "district": 6,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "180 WADSWORTH AVENUE, MANHATTAN, NY 10033",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S./I.S. 187 Hudson Cliffs",
       "dbn": "06M187",
       "district": 6,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "349 CABRINI BOULEVARD, MANHATTAN, NY 10040",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "City College Academy of the Arts",
       "dbn": "06M293",
       "district": 6,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "4600 Broadway, Manhattan, NY 10040",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Middle School 322",
       "dbn": "06M322",
       "district": 6,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "4600 BROADWAY, MANHATTAN, NY 10040",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Paula Hedbavny School",
       "dbn": "06M278",
       "district": 6,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "3761 10 Avenue, Manhattan, NY 10034",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "P.S. 018 Park Terrace",
       "dbn": "06M018",
       "district": 6,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "3761 10 Avenue, Manhattan, NY 10034",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Harold O. Levy School",
       "dbn": "06M052",
       "district": 6,
       "grades": "6–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "650 ACADEMY STREET, MANHATTAN, NY 10034",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Washington Heights Academy",
       "dbn": "06M366",
       "district": 6,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "202 SHERMAN AVE, MANHATTAN, NY 10034",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     },
     {
       "name": "Amistad Dual Language School",
       "dbn": "06M311",
       "district": 6,
       "grades": "K–8",
-      "source_url": "https://www.myschools.nyc/en/schools/middle-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/middle-school/",
+      "address": "4862 BROADWAY, MANHATTAN, NY 10034",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/middle-school/"
+        }
+      ]
     }
   ]
 }

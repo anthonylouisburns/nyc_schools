@@ -10,812 +10,1624 @@
       "dbn": "02M047",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "223 East 23 Street, Manhattan, NY 10010",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "A School Without Walls: Hybrid Pathway",
       "dbn": "02M395",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "90 Trinity Place, New York, NY 10006",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "A. Philip Randolph Campus High School",
       "dbn": "06M540",
       "district": 6,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "443 West 135 Street, Manhattan, NY 10031",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Academy for Software Engineering (AFSE)",
       "dbn": "02M546",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "40 Irving Place, Manhattan, NY 10003",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Art and Design High School",
       "dbn": "02M630",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "231-249 East 56 Street, Manhattan, NY 10019",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Bard High School Early College",
       "dbn": "01M696",
       "district": 1,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "525 East Houston Street, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Baruch College Campus High School",
       "dbn": "02M411",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "55 East 25 Street, Manhattan, NY 10010",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Beacon High School",
       "dbn": "03M479",
       "district": 3,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "522 WEST 44 STREET, MANHATTAN, NY 10036",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Business of Sports School",
       "dbn": "02M393",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "439 WEST 49 STREET, MANHATTAN, NY 10019",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Central Park East High School",
       "dbn": "04M555",
       "district": 4,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "1573 Madison Avenue, Manhattan, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Chelsea Career and Technical Education High School",
       "dbn": "02M615",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "131 Avenue Of The Americas, Manhattan, NY 10013",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "City College Academy of the Arts",
       "dbn": "06M293",
       "district": 6,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "4600 Broadway, Manhattan, NY 10040",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "City-As-School",
       "dbn": "02M560",
       "district": 2,
       "grades": "10–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "16 Clarkson Street, Manhattan, NY 10014",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "College Academy, The",
       "dbn": "06M462",
       "district": 6,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "549 Audubon Avenue, Manhattan, NY 10040",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Columbia Secondary School",
       "dbn": "05M362",
       "district": 5,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "425 West 123 Street, Manhattan, NY 10027",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Community Health Academy of the Heights",
       "dbn": "06M346",
       "district": 6,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "504 WEST 158 STREET, MANHATTAN, NY 10032",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Eagle Academy for Young Men of Harlem",
       "dbn": "05M148",
       "district": 5,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "6 Edgecombe Avenue, Manhattan, NY 10030",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "East Side Community School",
       "dbn": "01M450",
       "district": 1,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "420 East 12 Street, Manhattan, NY 10009",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Edward A Reynolds Westside HS",
       "dbn": "04M505",
       "district": 4,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "105 East 106 Street, New York, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Eleanor Roosevelt High School",
       "dbn": "02M416",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "411 East 76 Street, Manhattan, NY 10021",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Emma Lazarus High School for English Language Scholars",
       "dbn": "02M394",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "100 Hester Street, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Esperanza Preparatory Academy",
       "dbn": "04M372",
       "district": 4,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "240 East 109 Street, Manhattan, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Essex Street Academy",
       "dbn": "02M294",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "350 Grand Street, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Facing History School, The",
       "dbn": "02M303",
       "district": 2,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "525 WEST 50 STREET, MANHATTAN, NY 10019",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Fiorello H. LaGuardia High School of Music & Art and Performing Arts",
       "dbn": "03M485",
       "district": 3,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "100 Amsterdam Avenue, Manhattan, NY 10023",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Food and Finance High School",
       "dbn": "02M288",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "525 WEST 50 STREET, MANHATTAN, NY 10019",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Forsyth Satellite Academy",
       "dbn": "01M458",
       "district": 1,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "198 Forsyth Street, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Frank McCourt High School",
       "dbn": "03M417",
       "district": 3,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "145 West 84 Street, Manhattan, NY 10024",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Frederick Douglass Academy",
       "dbn": "05M499",
       "district": 5,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "2581 7 AVENUE, MANHATTAN, NY 10039",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Frederick Douglass Academy II Secondary School",
       "dbn": "03M860",
       "district": 3,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "215 West 114 Street, Manhattan, NY 10026",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Gateway Tech",
       "dbn": "02M507",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "439 WEST 49 STREET, MANHATTAN, NY 10019",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Global Learning Collaborative, The",
       "dbn": "03M403",
       "district": 3,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "145 West 84 Street, Manhattan, NY 10024",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Gramercy Arts High School",
       "dbn": "02M374",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "40 Irving Place, Manhattan, NY 10003",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Gregorio Luperon High School for Science and Mathematics",
       "dbn": "06M552",
       "district": 6,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "501 WEST 165 STREET, MANHATTAN, NY 10032",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Harvest Collegiate High School",
       "dbn": "02M534",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "34 West 14 Street, Manhattan, NY 10011",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Harvey Milk High School",
       "dbn": "02M586",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "2-10 Astor Place, Manhattan, NY 10003",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Heritage School, The",
       "dbn": "04M680",
       "district": 4,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "1680 Lexington Avenue, Manhattan, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School For Climate Justice",
       "dbn": "02M655",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "320 East 96 Street, Manhattan, NY 10128",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School for Dual Language and Asian Studies",
       "dbn": "02M545",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "350 Grand Street, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School for Environmental Studies",
       "dbn": "02M400",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "444 West 56 Street, Manhattan, NY 10019",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School for Excellence and Innovation",
       "dbn": "06M423",
       "district": 6,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "650 Academy Street, Manhattan, NY 10034",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School for Health Careers and Sciences",
       "dbn": "06M468",
       "district": 6,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "549 Audubon Avenue, Manhattan, NY 10040",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School for Health Professions and Human Services",
       "dbn": "02M420",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "345 EAST 15 STREET, MANHATTAN, NY 10003",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School for Language and Diplomacy, The",
       "dbn": "02M399",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "40 Irving Place, Manhattan, NY 10003",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School for Law and Public Service",
       "dbn": "06M467",
       "district": 6,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "549 Audubon Avenue, Manhattan, NY 10040",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School for Law, Advocacy and Community Justice",
       "dbn": "03M492",
       "district": 3,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "122 Amsterdam Avenue, Manhattan, NY 10023",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School for Math, Science and Engineering at City College (HSMSE)",
       "dbn": "05M692",
       "district": 5,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "240 Convent Ave, Manhattan, NY 10031",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School for Media and Communications",
       "dbn": "06M463",
       "district": 6,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "549 Audubon Avenue, Manhattan, NY 10040",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School of Arts and Technology",
       "dbn": "03M494",
       "district": 3,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "122 Amsterdam Avenue, Manhattan, NY 10023",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School of Economics and Finance",
       "dbn": "02M489",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "100 Trinity Place, Manhattan, NY 10006",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School of Fashion Industries, The",
       "dbn": "02M600",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "225 West 24 Street, Manhattan, NY 10011",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "High School of Hospitality Management",
       "dbn": "02M296",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "525 WEST 50 STREET, MANHATTAN, NY 10019",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Hudson High School of Learning Technologies",
       "dbn": "02M437",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "351 West 18 Street, Manhattan, NY 10011",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Humanities Preparatory Academy",
       "dbn": "02M605",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "351 West 18 Street, Manhattan, NY 10011",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Independence High School",
       "dbn": "02M544",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "850 10 AVENUE, MANHATTAN, NY 10019",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Institute for Collaborative Education (ICE)",
       "dbn": "02M407",
       "district": 2,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "345 EAST 15 STREET, MANHATTAN, NY 10003",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "International High School at Union Square",
       "dbn": "02M438",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "40 Irving Place, Manhattan, NY 10003",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Inwood Early College for Health and Information Technologies",
       "dbn": "06M211",
       "district": 6,
       "grades": "9–14",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "650 Academy Street, Manhattan, NY 10034",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Jacqueline Kennedy Onassis High School",
       "dbn": "02M529",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "120 West 46 Street, Manhattan, NY 10036",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "James Baldwin School, The",
       "dbn": "02M313",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "351 West 18 Street, Manhattan, NY 10011",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Landmark High School",
       "dbn": "02M419",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "351 West 18 Street, Manhattan, NY 10011",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Leadership and Public Service High School",
       "dbn": "02M425",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "90 Trinity Place, Manhattan, NY 10006",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Liberty High School Academy for Newcomers",
       "dbn": "02M550",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "250 West 18 Street, Manhattan, NY 10011",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Lower East Side Preparatory High School",
       "dbn": "01M515",
       "district": 1,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "145 Stanton Street, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Lower Manhattan Arts Academy",
       "dbn": "02M308",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "350 Grand Street, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Manhattan / Hunter Science High School",
       "dbn": "03M541",
       "district": 3,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "122 Amsterdam Avenue, Manhattan, NY 10023",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Manhattan Academy for Arts & Language",
       "dbn": "02M427",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "111 EAST 33 STREET, MANHATTAN, NY 10016",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Manhattan Bridges High School",
       "dbn": "02M542",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "525 WEST 50 STREET, MANHATTAN, NY 10019",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Manhattan Business Academy",
       "dbn": "02M392",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "351 West 18 Street, Manhattan, NY 10011",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Manhattan Center for Science and Mathematics",
       "dbn": "04M435",
       "district": 4,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "260 Pleasant Avenue, Manhattan, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Manhattan Early College Academy for Marketing and Media Arts (MECA)",
       "dbn": "02M280",
       "district": 2,
       "grades": "9–14",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "411 Pearl Street, Manhattan, NY 10038",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Manhattan International High School",
       "dbn": "02M459",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "317 East 67 Street, Manhattan, NY 10065",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Manhattan Village Academy",
       "dbn": "02M439",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "43 West 22 Street, Manhattan, NY 10010",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Millennium High School",
       "dbn": "02M418",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "75 Broad Street, Manhattan, NY 10004",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Mott Hall High School",
       "dbn": "05M304",
       "district": 5,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "6 Edgecombe Avenue, Manhattan, NY 10030",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Mott Hall II",
       "dbn": "03M862",
       "district": 3,
       "grades": "6–10",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "220 WEST 121 STREET, MANHATTAN, NY 10027",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Murray Hill Academy",
       "dbn": "02M432",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "111 EAST 33 STREET, MANHATTAN, NY 10016",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Murry Bergtraum High School for Business Careers",
       "dbn": "02M520",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "411 Pearl Street, Manhattan, NY 10038",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "N.Y.C. Lab School for Collaborative Studies",
       "dbn": "02M412",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "333 West 17 Street, Manhattan, NY 10011",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "N.Y.C. Museum School",
       "dbn": "02M414",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "333 West 17 Street, Manhattan, NY 10011",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "New Design High School",
       "dbn": "02M543",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "350 Grand Street, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "New Explorations into Science, Technology and Math High School (NEST+m)",
       "dbn": "01M539",
       "district": 1,
       "grades": "K–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "111 COLUMBIA STREET, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "NYC iSchool",
       "dbn": "02M376",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "131 Avenue Of The Americas, Manhattan, NY 10013",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Orchard Collegiate Academy",
       "dbn": "01M292",
       "district": 1,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "220 Henry Street, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Pace High School",
       "dbn": "02M298",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "100 Hester Street, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Park East High School",
       "dbn": "04M495",
       "district": 4,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "230 East 105 Street, Manhattan, NY 10029",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Professional Performing Arts High School (PPAS)",
       "dbn": "02M408",
       "district": 2,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "328 West 48 Street, Manhattan, NY 10036",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Quest to Learn",
       "dbn": "02M422",
       "district": 2,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "351 West 18 Street, Manhattan, NY 10011",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Repertory Company High School for Theatre Arts",
       "dbn": "02M531",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "123 West 43 Street, Manhattan, NY 10036",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Richard R. Green High School of Teaching",
       "dbn": "02M580",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "7 Beaver Street, Manhattan, NY 10004",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "School for Global Leaders",
       "dbn": "01M378",
       "district": 1,
       "grades": "6–10",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "145 STANTON STREET, MANHATTAN, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "School of the Future High School",
       "dbn": "02M413",
       "district": 2,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "127 East 22 Street, Manhattan, NY 10010",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Special Music School",
       "dbn": "03M859",
       "district": 3,
       "grades": "K–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "129 West 67 Street, Manhattan, NY 10023",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Stephen T. Mather Building Arts & Craftsmanship High School",
       "dbn": "02M139",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "439 WEST 49 STREET, MANHATTAN, NY 10019",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Stuyvesant High School",
       "dbn": "02M475",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "345 Chambers Street, Manhattan, NY 10282",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Talent Unlimited High School",
       "dbn": "02M519",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "317 East 67 Street, Manhattan, NY 10065",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "The Clinton School",
       "dbn": "02M260",
       "district": 2,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "10 EAST 15 STREET, MANHATTAN, NY 10003",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "The Urban Assembly Early College High School of Emergency Medicine",
       "dbn": "02M135",
       "district": 2,
       "grades": "9–14",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "411 Pearl Street, Manhattan, NY 10038",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Thurgood Marshall Academy for Learning and Social Change",
       "dbn": "05M670",
       "district": 5,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "200-214 WEST 135 STREET, MANHATTAN, NY 10030",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Union Square Academy for Health Sciences",
       "dbn": "02M533",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "40 Irving Place, Manhattan, NY 10003",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Unity Center for Urban Technologies",
       "dbn": "02M500",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "111 EAST 33 STREET, MANHATTAN, NY 10016",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "University Neighborhood High School",
       "dbn": "01M448",
       "district": 1,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "200 Monroe Street, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Urban Academy Laboratory High School",
       "dbn": "02M565",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "317 EAST 67 STREET, MANHATTAN, NY 10065",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Urban Assembly Academy of Government and Law, The",
       "dbn": "02M305",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "350 Grand Street, Manhattan, NY 10002",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Urban Assembly Maker Academy",
       "dbn": "02M282",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "411 Pearl Street, Manhattan, NY 10038",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Urban Assembly New York Harbor School",
       "dbn": "02M551",
       "district": 2,
       "grades": "9–14",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "10 South Street Slip 7, Manhattan, NY 10004",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Urban Assembly School for Global Commerce, The",
       "dbn": "05M157",
       "district": 5,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "2005 Madison Avenue, Manhattan, NY 10035",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Urban Assembly School for Green Careers, The",
       "dbn": "03M402",
       "district": 3,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "145 West 84 Street, Manhattan, NY 10024",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Urban Assembly School for Media Studies, The",
       "dbn": "03M307",
       "district": 3,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "122 Amsterdam Avenue, Manhattan, NY 10023",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Urban Assembly School for the Performing Arts",
       "dbn": "05M369",
       "district": 5,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "509 West 129 Street, Manhattan, NY 10027",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Urban Assembly School of Design and Construction, The",
       "dbn": "02M300",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "525 WEST 50 STREET, MANHATTAN, NY 10019",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Vanguard High School",
       "dbn": "02M449",
       "district": 2,
       "grades": "9–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "317 East 67 Street, Manhattan, NY 10065",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Wadleigh Secondary School for the Performing & Visual Arts",
       "dbn": "03M415",
       "district": 3,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "215 West 114 Street, Manhattan, NY 10026",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Washington Heights Expeditionary Learning School (WHEELS)",
       "dbn": "06M348",
       "district": 6,
       "grades": "K–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "511 West 182 Street, Manhattan, NY 10033",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "West End Secondary School",
       "dbn": "03M291",
       "district": 3,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "227-243 WEST 61 STREET, MANHATTAN, NY 10023",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     },
     {
       "name": "Young Women's Leadership School (TYWLS)",
       "dbn": "03M610",
       "district": 3,
       "grades": "6–12",
-      "source_url": "https://www.myschools.nyc/en/schools/high-school/"
+      "source_url": "https://www.myschools.nyc/en/schools/high-school/",
+      "address": "140 West 102 Street, New York, NY 10025",
+      "address_sources": [
+        {
+          "title": "MySchools official directory",
+          "url": "https://www.myschools.nyc/en/schools/high-school/"
+        }
+      ]
     }
   ]
 }
