@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-18.4 | October 18, 2026 | Correct neighborhood admissions assumptions to use current priority; revise the uptown top ten; add numbered ten-school maps and an explanation of another school considered. | `release-2026-10-18.4` |
 | 2026-10-18.3 | October 18, 2026 | Add release history, recovery guidance and ongoing publishing instructions. Website behavior unchanged from .2. | `release-2026-10-18.3` |
 | 2026-10-18.2 | October 18, 2026 | Two neighborhood top-ten pages, navigation beneath the middle-school tab, school-detail deep links and video watch lists. | `release-2026-10-18.2` · `0684baf` |
 | 2026-10-18.1 | October 18, 2026 | Middle-school InsideSchools summaries, dated Quality Snapshot figures and 2026 survey scores with response rates. | `release-2026-10-18.1` · `ae6fd8f` |
@@ -33,3 +34,5 @@ Prefer a new commit that reverts the faulty website change, followed by a normal
 A website rollback does not require restoring or deleting the shared notes database. Notes and consideration choices live separately in Convex. Preserve school identifiers and the current access configuration; do not deploy an older backend, change its schema, rotate access keys or restore database backups as part of a routine website rollback. Older frontend versions must be checked for compatibility with the current notes service before release.
 
 Revert all affected encrypted pages together. A failed or incomplete build must never be published. Release notes must not contain private family assessments, credentials or access keys.
+
+Validation for 2026-10-18.4: rankings use current admissions assumptions in both scenarios; each map is generated from the same ten records as its list, using verified public building coordinates. The video watch list follows the revised order. All encrypted pages are built together; existing saved notes and choices remain separate.
