@@ -11,3 +11,5 @@ Remember this browser stores a non-exportable browser cryptographic key in Index
 Rank arrows remain browser-local. Notes and consideration choices are shared across devices after unlocking. Refresh notes to see the latest saved entries.
 
 Deploy backend: `npx convex deploy`. Typecheck: `npx tsc --noEmit`. Publish frontend by pushing to main; GitHub Pages serves the repository root. Private source files and environment secrets are ignored. Never publish `.env.local` or `source-private/`.
+
+Middle-school expanded details include InsideSchools reviews, the 2024–25 NYC School Quality Snapshot, and official 2026 NYC School Survey scores. Records show source links, review/report dates, respondent counts and response rates. Survey scores are composites out of 100, not individual-question percentages; 2026 student results establish a new baseline. Public reports may cover several grades and do not establish individual service suitability. Private schools are marked outside the NYC public-school reporting system.
