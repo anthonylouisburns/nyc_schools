@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-18.7 | October 18, 2026 | Combine neighborhood recommendations into one 30-school page with a commute/ranking toggle; preserve notes across toggles; extend numbered maps, source register and video watch list; redirect old neighborhood links. | `release-2026-10-18.7` |
 | 2026-10-18.6 | October 18, 2026 | Expand both neighborhood lists and numbered maps to 20; retain family selections, surface shared feedback and consideration controls, put Considering schools first in family ranks, extend video research, and add the sources summary/register. | `release-2026-10-18.6` |
 | 2026-10-18.5 | October 18, 2026 | Read and add shared school notes directly on both recommendation pages; reuse the existing school note history and draft protection. Improve map-number alignment. | `release-2026-10-18.5` |
 | 2026-10-18.4 | October 18, 2026 | Correct neighborhood admissions assumptions to use current priority; revise the uptown top ten; add numbered ten-school maps and an explanation of another school considered. | `release-2026-10-18.4` |
@@ -42,3 +43,5 @@ Validation for 2026-10-18.4: rankings use current admissions assumptions in both
 Validation for 2026-10-18.5: recommendation note panels use the existing student/school identifiers, shared notes controls, append-only saves and local draft recovery. Panels load when opened; no test notes were added to real school histories. Existing backend and saved data remain unchanged.
 
 Validation for 2026-10-18.6: both lists retain every previously saved consideration choice and use the same 20 school identifiers. Explicitly requested shared consideration updates were verified; existing notes were read, not changed. Map pins, notes controls and watch-list entries match the expanded lists. The public source register excludes private profiles, account URLs, notes and credentials. Feedback-based editorial changes remain encrypted.
+
+Validation for 2026-10-18.7: both toggle states contain the same 30 unique schools, retaining every prior family selection. Map numbering and watch-list order follow the active neighborhood. Note and choice controls are reused across toggles to preserve drafts and in-flight saves; old links retain their neighborhood and anchor when redirecting. The canonical recommendation page and family guide remain encrypted. District 4/5 additions require a specific fit rationale rather than a geographic quota.
