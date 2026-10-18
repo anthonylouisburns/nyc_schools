@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-18.10 | October 18, 2026 | Update Anderson’s encrypted family assessment to Maybe using family-provided screening information and prior-year SWD offers; synchronize list and map colors. | `release-2026-10-18.10` |
 | 2026-10-18.9 | October 18, 2026 | Match quick-list numbers to the map’s colored admissions circles, with outlook labels for accessibility. | `release-2026-10-18.9` |
 | 2026-10-18.8 | October 18, 2026 | Color recommendation map pins by admissions outlook: green Likely, yellow Maybe, red Unlikely, gray unassessed; add a legend and outlook labels to pin popups and accessible names. | `release-2026-10-18.8` |
 | 2026-10-18.7 | October 18, 2026 | Combine neighborhood recommendations into one 30-school page with a commute/ranking toggle; preserve notes across toggles; extend numbered maps, source register and video watch list; redirect old neighborhood links. | `release-2026-10-18.7` |
