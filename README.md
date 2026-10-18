@@ -17,3 +17,5 @@ Middle-school expanded details include InsideSchools reviews, the 2024–25 NYC 
 Teddy’s Upper West Side and Tribeca recommendation pages use the same encrypted family payload and remembered browser access. The private build refreshes `family.html`, `teddy-upper-west-side.html`, and `teddy-tribeca.html` together after verification. Neighborhood rankings are editorial tour priorities, separate from saved family rankings; hypothetical address priorities are explicitly distinguished from the current profile.
 
 Release history and rollback guidance: [RELEASES.md](RELEASES.md). Each published version has an annotated `release-YYYY-MM-DD.N` Git tag. Frontend recovery preserves the separately stored shared notes and consideration history.
+
+Sources summary and searchable public bibliography: [sources.html](sources.html). The neighborhood recommendation pages now contain 20 schools, with shared notes/choices and updated video links; family directory ranks place Considering schools first while preserving saved order within groups. Public bibliographic records contain no private account links or family feedback.
