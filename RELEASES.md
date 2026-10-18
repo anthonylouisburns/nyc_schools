@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-18.8 | October 18, 2026 | Color recommendation map pins by admissions outlook: green Likely, yellow Maybe, red Unlikely, gray unassessed; add a legend and outlook labels to pin popups and accessible names. | `release-2026-10-18.8` |
 | 2026-10-18.7 | October 18, 2026 | Combine neighborhood recommendations into one 30-school page with a commute/ranking toggle; preserve notes across toggles; extend numbered maps, source register and video watch list; redirect old neighborhood links. | `release-2026-10-18.7` |
 | 2026-10-18.6 | October 18, 2026 | Expand both neighborhood lists and numbered maps to 20; retain family selections, surface shared feedback and consideration controls, put Considering schools first in family ranks, extend video research, and add the sources summary/register. | `release-2026-10-18.6` |
 | 2026-10-18.5 | October 18, 2026 | Read and add shared school notes directly on both recommendation pages; reuse the existing school note history and draft protection. Improve map-number alignment. | `release-2026-10-18.5` |
