@@ -737,11 +737,35 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://geosearch.planninglabs.nyc/v2/search?text=148+West+90+Street+Manhattan&size=1",
+      "category": "Maps and location references",
+      "schools": [],
+      "recorded_on": "2026-10-18"
+    },
+    {
       "url": "https://geosearch.planninglabs.nyc/v2/search?text=211+West+61+Street+Manhattan&size=1",
       "category": "Maps and location references",
       "schools": [
         "The Gateway School"
       ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://geosearch.planninglabs.nyc/v2/search?text=29+Fort+Greene+Place+Brooklyn",
+      "category": "Maps and location references",
+      "schools": [],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://geosearch.planninglabs.nyc/v2/search?text=327+West+13th+Street+Manhattan",
+      "category": "Maps and location references",
+      "schools": [],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://geosearch.planninglabs.nyc/v2/search?text=44+East+68th+Street+Manhattan",
+      "category": "Maps and location references",
+      "schools": [],
       "recorded_on": "2026-10-18"
     },
     {
@@ -5068,7 +5092,7 @@
       "schools": [
         "Bard High School Early College"
       ],
-      "recorded_on": "2026-10-16"
+      "recorded_on": "2026-10-18"
     },
     {
       "url": "https://cbmanhattan.cityofnewyork.us/cb2/event/parks-susanna-aaron-vice-chair-8/",
@@ -5399,7 +5423,7 @@
       "schools": [
         "Dominican Academy"
       ],
-      "recorded_on": "2026-10-16"
+      "recorded_on": "2026-10-18"
     },
     {
       "url": "https://wadleigharts.org/",
@@ -5451,6 +5475,14 @@
     },
     {
       "url": "https://www.afsenyc.org",
+      "category": "School and other official websites",
+      "schools": [
+        "Academy for Software Engineering (AFSE)"
+      ],
+      "recorded_on": "2026-10-16"
+    },
+    {
+      "url": "https://www.afsenyc.org/index.jsp",
       "category": "School and other official websites",
       "schools": [
         "Academy for Software Engineering (AFSE)"
@@ -5552,6 +5584,14 @@
         "Brooklyn Technical High School (Brooklyn Tech)"
       ],
       "recorded_on": "2026-10-16"
+    },
+    {
+      "url": "https://www.bths.edu/apps/news/show_news.jsp?REC_ID=693132&id=0",
+      "category": "School and other official websites",
+      "schools": [
+        "Brooklyn Technical High School (Brooklyn Tech)"
+      ],
+      "recorded_on": "2026-10-18"
     },
     {
       "url": "https://www.bths.edu/apps/pages/index.jsp?pREC_ID=444736&termREC_ID=&type=d&uREC_ID=229356",
@@ -5656,7 +5696,7 @@
       "schools": [
         "Notre Dame School of Manhattan"
       ],
-      "recorded_on": "2026-10-16"
+      "recorded_on": "2026-10-18"
     },
     {
       "url": "https://www.cheznous.org/admissions/open-house",
@@ -5689,6 +5729,14 @@
         "Columbia Secondary School"
       ],
       "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.columbiasecondary.org/admissions/applying-to-high-school",
+      "category": "School and other official websites",
+      "schools": [
+        "Columbia Secondary School"
+      ],
+      "recorded_on": "2026-10-16"
     },
     {
       "url": "https://www.communityactionschool.org/",
@@ -5888,7 +5936,7 @@
       "schools": [
         "Eleanor Roosevelt High School"
       ],
-      "recorded_on": "2026-10-16"
+      "recorded_on": "2026-10-18"
     },
     {
       "url": "https://www.erhsnyc.org/apps/pages/?title=Admissions+Information&type=d&uREC_ID=27970&un=SEC-ADM&userGroupREC_ID=27970",
@@ -5948,6 +5996,14 @@
     },
     {
       "url": "https://www.fmhsnyc.org/",
+      "category": "School and other official websites",
+      "schools": [
+        "Frank McCourt High School"
+      ],
+      "recorded_on": "2026-10-16"
+    },
+    {
+      "url": "https://www.fmhsnyc.org/admissions_process",
       "category": "School and other official websites",
       "schools": [
         "Frank McCourt High School"
@@ -6068,6 +6124,14 @@
     },
     {
       "url": "https://www.harvestcollegiate.org/events-1",
+      "category": "School and other official websites",
+      "schools": [
+        "Harvest Collegiate High School"
+      ],
+      "recorded_on": "2026-10-16"
+    },
+    {
+      "url": "https://www.harvestcollegiate.org/open-house",
       "category": "School and other official websites",
       "schools": [
         "Harvest Collegiate High School"
@@ -6454,7 +6518,7 @@
       "schools": [
         "Manhattan / Hunter Science High School"
       ],
-      "recorded_on": "2026-10-16"
+      "recorded_on": "2026-10-18"
     },
     {
       "url": "https://www.mihsnyc.org/",
@@ -6486,7 +6550,7 @@
       "schools": [
         "Millennium High School"
       ],
-      "recorded_on": "2026-10-16"
+      "recorded_on": "2026-10-18"
     },
     {
       "url": "https://www.motthall2.org/",
@@ -6711,6 +6775,14 @@
         "N.Y.C. Museum School"
       ],
       "recorded_on": "2026-10-16"
+    },
+    {
+      "url": "https://www.nycmuseumschool.org/apps/pages/index.jsp?type=d&uREC_ID=472320",
+      "category": "School and other official websites",
+      "schools": [
+        "N.Y.C. Museum School"
+      ],
+      "recorded_on": "2026-10-18"
     },
     {
       "url": "https://www.nycmuseumschool.org/apps/pages/index.jsp?uREC_ID=472320&type=d",
@@ -7278,6 +7350,14 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://www.tywls.org/apps/pages/index.jsp?pREC_ID=2187310&type=d&uREC_ID=4383182",
+      "category": "School and other official websites",
+      "schools": [
+        "Young Women's Leadership School (TYWLS)"
+      ],
+      "recorded_on": "2026-10-16"
+    },
+    {
       "url": "https://www.tywls.org/apps/pages/index.jsp?uREC_ID=4383182&type=d&pREC_ID=2391266",
       "category": "School and other official websites",
       "schools": [
@@ -7519,10 +7599,50 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://www.youtube.com/results?search_query=Academy%20for%20Software%20Engineering%20%28AFSE%29%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Academy for Software Engineering (AFSE)"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
       "url": "https://www.youtube.com/results?search_query=Anderson%20School%20PS%20MS334%20NYC%20middle%20school%20tour",
       "category": "Videos and virtual tours",
       "schools": [
         "The Anderson School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Bard%20High%20School%20Early%20College%20Manhattan%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Bard High School Early College"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Baruch%20College%20Campus%20High%20School%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Baruch College Campus High School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Beacon%20High%20School%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Beacon High School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Brooklyn%20Technical%20High%20School%20%28Brooklyn%20Tech%29%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Brooklyn Technical High School (Brooklyn Tech)"
       ],
       "recorded_on": "2026-10-18"
     },
@@ -7535,10 +7655,26 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://www.youtube.com/results?search_query=Columbia%20Secondary%20School%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Columbia Secondary School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
       "url": "https://www.youtube.com/results?search_query=Community%20Action%20School%20MS258%20NYC%20school%20tour",
       "category": "Videos and virtual tours",
       "schools": [
         "Community Action School - MS 258"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Dominican%20Academy%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Dominican Academy"
       ],
       "recorded_on": "2026-10-18"
     },
@@ -7559,6 +7695,14 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://www.youtube.com/results?search_query=Eleanor%20Roosevelt%20High%20School%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Eleanor Roosevelt High School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
       "url": "https://www.youtube.com/results?search_query=Ella%20Baker%20School%20Manhattan%20NYC%20tour",
       "category": "Videos and virtual tours",
       "schools": [
@@ -7575,6 +7719,14 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://www.youtube.com/results?search_query=Frank%20McCourt%20High%20School%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Frank McCourt High School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
       "url": "https://www.youtube.com/results?search_query=Gateway%20School%20NYC%20211%20West%2061st%20school%20tour",
       "category": "Videos and virtual tours",
       "schools": [
@@ -7583,10 +7735,58 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://www.youtube.com/results?search_query=Harvest%20Collegiate%20High%20School%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Harvest Collegiate High School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=High%20School%20for%20Environmental%20Studies%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "High School for Environmental Studies"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=High%20School%20for%20Health%20Professions%20and%20Human%20Services%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "High School for Health Professions and Human Services"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=High%20School%20for%20Math%2C%20Science%20and%20Engineering%20at%20City%20College%20%28HSMSE%29%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "High School for Math, Science and Engineering at City College (HSMSE)"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Humanities%20Preparatory%20Academy%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Humanities Preparatory Academy"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
       "url": "https://www.youtube.com/results?search_query=IS289%20Hudson%20River%20Middle%20School%20school%20tour",
       "category": "Videos and virtual tours",
       "schools": [
         "Hudson River Middle School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Institute%20for%20Collaborative%20Education%20%28ICE%29%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Institute for Collaborative Education (ICE)"
       ],
       "recorded_on": "2026-10-18"
     },
@@ -7631,10 +7831,42 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://www.youtube.com/results?search_query=Manhattan%20/%20Hunter%20Science%20High%20School%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Manhattan / Hunter Science High School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
       "url": "https://www.youtube.com/results?search_query=Manhattan%20Academy%20Technology%20PS126%20NYC%20school%20tour",
       "category": "Videos and virtual tours",
       "schools": [
         "Manhattan Academy of Technology/Jacob Riis"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Manhattan%20Center%20for%20Science%20and%20Mathematics%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Manhattan Center for Science and Mathematics"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Manhattan%20Village%20Academy%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Manhattan Village Academy"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Millennium%20High%20School%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Millennium High School"
       ],
       "recorded_on": "2026-10-18"
     },
@@ -7647,10 +7879,58 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://www.youtube.com/results?search_query=N.Y.C.%20Lab%20School%20for%20Collaborative%20Studies%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "N.Y.C. Lab School for Collaborative Studies"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=N.Y.C.%20Museum%20School%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "N.Y.C. Museum School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
       "url": "https://www.youtube.com/results?search_query=NYC%20Lab%20Middle%20School%2002M312%20school%20tour",
       "category": "Videos and virtual tours",
       "schools": [
         "New York City Lab Middle School for Collaborative Studies"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=NYC%20iSchool%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "NYC iSchool"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=New%20Explorations%20into%20Science%2C%20Technology%20and%20Math%20High%20School%20%28NEST%2Bm%29%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "New Explorations into Science, Technology and Math High School (NEST+m)"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Notre%20Dame%20School%20of%20Manhattan%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Notre Dame School of Manhattan"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Park%20East%20High%20School%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Park East High School"
       ],
       "recorded_on": "2026-10-18"
     },
@@ -7687,6 +7967,14 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://www.youtube.com/results?search_query=School%20of%20the%20Future%20High%20School%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "School of the Future High School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
       "url": "https://www.youtube.com/results?search_query=School%20of%20the%20Future%20Manhattan%2002M413%20school%20tour",
       "category": "Videos and virtual tours",
       "schools": [
@@ -7719,6 +8007,22 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://www.youtube.com/results?search_query=Stuyvesant%20High%20School%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Stuyvesant High School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=The%20Clinton%20School%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "The Clinton School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
       "url": "https://www.youtube.com/results?search_query=Tompkins%20Square%20Middle%20School%20NYC%20tour",
       "category": "Videos and virtual tours",
       "schools": [
@@ -7731,6 +8035,14 @@
       "category": "Videos and virtual tours",
       "schools": [
         "University Neighborhood Middle School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Urban%20Assembly%20Maker%20Academy%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Urban Assembly Maker Academy"
       ],
       "recorded_on": "2026-10-18"
     },
@@ -7755,6 +8067,14 @@
       "category": "Videos and virtual tours",
       "schools": [
         "Yorkville East Middle School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Young%20Women%27s%20Leadership%20School%20%28TYWLS%29%20NYC%20high%20school%20tour",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Young Women's Leadership School (TYWLS)"
       ],
       "recorded_on": "2026-10-18"
     },
@@ -7951,10 +8271,26 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://www.youtube.com/watch?v=yjWdXDWLUcU",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "Baruch College Campus High School"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=z1Z-RshcL8E",
       "category": "Videos and virtual tours",
       "schools": [
         "M.S. 297 (75 Morton)"
+      ],
+      "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://youtu.be/8BlAigYDQLk",
+      "category": "Videos and virtual tours",
+      "schools": [
+        "New Explorations into Science, Technology and Math High School (NEST+m)"
       ],
       "recorded_on": "2026-10-18"
     }
