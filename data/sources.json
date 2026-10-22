@@ -1,5 +1,5 @@
 {
-  "updated_on": "2026-10-18",
+  "updated_on": "2026-10-22",
   "scope": "Public sources used in the school guide and recommendations. Account pages, private family notes, credentials and application identifiers are excluded.",
   "entries": [
     {
@@ -2735,7 +2735,7 @@
       "schools": [
         "Sun Yat Sen Middle School"
       ],
-      "recorded_on": "2026-10-16"
+      "recorded_on": "2026-10-22"
     },
     {
       "url": "https://www.myschools.nyc/en/schools/middle-school/02M167/",
@@ -2759,7 +2759,7 @@
       "schools": [
         "P.S./I.S. 217 Roosevelt Island"
       ],
-      "recorded_on": "2026-10-16"
+      "recorded_on": "2026-10-22"
     },
     {
       "url": "https://www.myschools.nyc/en/schools/middle-school/02M225/",
@@ -2791,7 +2791,7 @@
       "schools": [
         "Battery Park City School"
       ],
-      "recorded_on": "2026-10-16"
+      "recorded_on": "2026-10-22"
     },
     {
       "url": "https://www.myschools.nyc/en/schools/middle-school/02M289/",
@@ -4946,7 +4946,7 @@
       "url": "https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/middle-school",
       "category": "NYCPS reports and admissions rules",
       "schools": [],
-      "recorded_on": "2026-10-18"
+      "recorded_on": "2026-10-22"
     },
     {
       "url": "https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/specialized-high-schools",
@@ -5246,12 +5246,24 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://ms131131.org/academics/",
+      "category": "School and other official websites",
+      "schools": [],
+      "recorded_on": "2026-10-22"
+    },
+    {
       "url": "https://ms131131.org/school-tours/",
       "category": "School and other official websites",
       "schools": [
         "Sun Yat Sen Middle School"
       ],
       "recorded_on": "2026-10-16"
+    },
+    {
+      "url": "https://ms131131.org/technology/",
+      "category": "School and other official websites",
+      "schools": [],
+      "recorded_on": "2026-10-22"
     },
     {
       "url": "https://my.matterport.com/show/?m=AhiyyhJrSCa",
@@ -5320,6 +5332,18 @@
         "Quest to Learn"
       ],
       "recorded_on": "2026-10-16"
+    },
+    {
+      "url": "https://q2l.org/academics/",
+      "category": "School and other official websites",
+      "schools": [],
+      "recorded_on": "2026-10-22"
+    },
+    {
+      "url": "https://q2l.org/why-quest/",
+      "category": "School and other official websites",
+      "schools": [],
+      "recorded_on": "2026-10-22"
     },
     {
       "url": "https://rrghst.org/",
@@ -5633,6 +5657,12 @@
         "High School for Math, Science and Engineering at City College (HSMSE)"
       ],
       "recorded_on": "2026-10-16"
+    },
+    {
+      "url": "https://www.cec3.org/d3updates",
+      "category": "School and other official websites",
+      "schools": [],
+      "recorded_on": "2026-10-22"
     },
     {
       "url": "https://www.centralparkeasths.org/",
@@ -6843,6 +6873,12 @@
       "recorded_on": "2026-10-18"
     },
     {
+      "url": "https://www.ps126mat.org/contact-us",
+      "category": "School and other official websites",
+      "schools": [],
+      "recorded_on": "2026-10-22"
+    },
+    {
       "url": "https://www.ps171.org",
       "category": "School and other official websites",
       "schools": [
@@ -6929,6 +6965,12 @@
         "P.S./I.S. 217 Roosevelt Island"
       ],
       "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.psis217.org/middle_school_at_217",
+      "category": "School and other official websites",
+      "schools": [],
+      "recorded_on": "2026-10-22"
     },
     {
       "url": "https://www.psis217.org/school_tours",

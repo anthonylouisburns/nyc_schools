@@ -6,3 +6,6 @@ node_modules/
 .env*
 *.local.json
 .DS_Store
+
+# Private generated family documents
+output/
