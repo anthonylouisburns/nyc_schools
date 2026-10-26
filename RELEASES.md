@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-26.4 | October 26, 2026 | Add school addresses and map links to the combined 15-school action index, plus addresses on detail cards. | `release-2026-10-26.4` |
 | 2026-10-26.3 | October 26, 2026 | Combine booking actions and school navigation into one 15-school index with submission deadlines, assessment dates and explicit unverified-deadline labels. | `release-2026-10-26.3` |
 | 2026-10-26.2 | October 26, 2026 | Expand the booking summary to all 15 schools, with individual links and explicit online, booking and unverified-format actions. | `release-2026-10-26.2` |
 | 2026-10-26.1 | October 26, 2026 | Add a public 15-school Brooklyn/Manhattan screened-assessment reference with MySchools criteria, priorities, historical GE demand, screening instructions, booking/submission links, brief audition guidance and explicit stale-source cautions. | `release-2026-10-26.1` |
@@ -63,3 +64,5 @@ Validation for 2026-10-26.1: confirmed 15 results with only Brooklyn/Manhattan a
 Validation for 2026-10-26.2: summary contains all 15 unique schools and matching detail anchors. No admissions research or recommendation changes. Kingsborough interview format remains unverified; Brooklyn College Academy attendance is also unverified. Existing encrypted family pages, redirects, saved notes and choices remain unchanged.
 
 Validation for 2026-10-26.3: combined index has 15 unique school links, 15 next steps and 15 timing labels; no duplicate jump list. Existing published research supplies deadlines; appointment dates and MySchools application deadlines are distinguished. No private payload, recommendations, notes, choices or backend changes. Existing encrypted entry pages and redirects remain unchanged.
+
+Validation for 2026-10-26.4: all 15 index entries have a school address and map link; all detail cards have the matching address. Addresses use existing MySchools inventory and official school evidence inspected for this guide. These are school addresses; assessment location must follow the chosen session confirmation, especially for shared Bard testing. Public reference data synchronized. Encrypted pages, redirects, notes, choices and backend unchanged.
