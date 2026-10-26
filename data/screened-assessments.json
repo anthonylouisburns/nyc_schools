@@ -1,0 +1,487 @@
+{
+  "checked_on": "2026-10-26",
+  "entry_year": 2027,
+  "source_note": "15 schools verified in signed-in MySchools with only Screened With Assessment and Brooklyn/Manhattan filters selected. Public program facts only; no profile, account URLs or personal estimates. Historical demand labeled \u201clast year\u201d by MySchools; exact measurement year not printed in the inspected panels.",
+  "schools": [
+    {
+      "name": "NYC iSchool",
+      "dbn": "02M376",
+      "code": "M52A",
+      "borough": "Manhattan",
+      "criteria": "Online admissions activity 100%",
+      "priorities": "NYC residents",
+      "dia": 66,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 90,
+        "applicants": 600,
+        "applications_per_seat": 7,
+        "all_seats_filled": true
+      },
+      "grade10": true,
+      "kind": "Online activity",
+      "deadline": "School posts Dec 7, 2026, 8pm; submit by Dec 4 if possible",
+      "task": "Read the school model, FAQs and current course descriptions. The form asks why you want to attend and what excites you (at least one paragraph), plus anything else the school should know. Faculty score understanding of the model, following directions and a distinctive personal response. Draft separately, then paste into the form; the school says you cannot save and return.",
+      "links": [
+        [
+          "Activity instructions & rubric",
+          "https://www.nycischool.org/online-admissions-activity-open"
+        ],
+        [
+          "Complete activity",
+          "https://docs.google.com/forms/d/e/1FAIpQLScoTRbpObcVCayTwefUGIp2i3T8mAbeIONSatSbF3W2EBmSDQ/viewform"
+        ]
+      ],
+      "caution": "The school\u2019s process page still says 2025\u201326 and 67% DIA; current MySchools says 66%. Its activity page posts a later Dec 7 deadline; the MySchools application remains due Dec 4.",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/02M376/"
+    },
+    {
+      "name": "Gramercy Arts High School \u2014 Capstone Scholars",
+      "dbn": "02M374",
+      "code": "M66I",
+      "borough": "Manhattan",
+      "criteria": "Average course grades 75%; essay 25%",
+      "priorities": "NYC residents",
+      "dia": null,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 20,
+        "applicants": 27,
+        "applications_per_seat": 1,
+        "all_seats_filled": false
+      },
+      "grade10": false,
+      "kind": "Essay upload",
+      "deadline": "No separate current deadline visible; confirm with school",
+      "task": "Apply to Capstone in MySchools before uploading. Write a one-page essay about a recent event that caught your attention and how you could express your thoughts and feelings through art. Upload the essay and indicate Visual Arts and/or Theater Arts interest. This is the assessed Capstone route; the separate M66A/M66B routes use auditions.",
+      "links": [
+        [
+          "Capstone instructions",
+          "https://www.gramercyhs.org/apps/pages/index.jsp?uREC_ID=4445417&type=d&pREC_ID=2685012"
+        ],
+        [
+          "Essay upload form",
+          "https://docs.google.com/forms/d/e/1FAIpQLSf5rWCGkhp_Ne1XIBqGKz8lPK-gmujPiiIvXGddy6Ou53O_IA/viewform?usp=preview"
+        ]
+      ],
+      "caution": "Essay form opened while signed in, but has no visible cycle/date. Confirm it applies to Fall 2027. Questions: Admissions@GramercyHS.org.",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/02M374/"
+    },
+    {
+      "name": "East Side Community School",
+      "dbn": "01M450",
+      "code": "M58A",
+      "borough": "Manhattan",
+      "criteria": "Essay 100%",
+      "priorities": "1. Continuing 8th graders \u2192 2. NYC residents",
+      "dia": 70,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 76,
+        "applicants": 177,
+        "applications_per_seat": 2,
+        "all_seats_filled": true
+      },
+      "grade10": false,
+      "kind": "Shared Consortium essay",
+      "deadline": "Complete with application by Dec 4, 2026",
+      "task": "Complete the shared Consortium essay described above: one response of 500 words or fewer, submitted once through MySchools \u2192 Additional Materials. Rank each desired participating program separately.",
+      "links": [
+        [
+          "Official shared prompts & instructions",
+          "https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/high-school/assessments-for-screened-schools"
+        ],
+        [
+          "MySchools \u2014 Additional Materials",
+          "https://myschools.nyc/en/"
+        ]
+      ],
+      "caution": "",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/01M450/"
+    },
+    {
+      "name": "Institute for Collaborative Education (ICE)",
+      "dbn": "02M407",
+      "code": "M82A",
+      "borough": "Manhattan",
+      "criteria": "Essay 100%",
+      "priorities": "1. Continuing 8th graders \u2192 2. NYC residents",
+      "dia": 66,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 46,
+        "applicants": 229,
+        "applications_per_seat": 5,
+        "all_seats_filled": true
+      },
+      "grade10": false,
+      "kind": "Shared Consortium essay",
+      "deadline": "Complete with application by Dec 4, 2026",
+      "task": "Complete the shared Consortium essay described above: one response of 500 words or fewer, submitted once through MySchools \u2192 Additional Materials. Rank each desired participating program separately.",
+      "links": [
+        [
+          "Official shared prompts & instructions",
+          "https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/high-school/assessments-for-screened-schools"
+        ],
+        [
+          "MySchools \u2014 Additional Materials",
+          "https://myschools.nyc/en/"
+        ]
+      ],
+      "caution": "",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/02M407/"
+    },
+    {
+      "name": "NEST+m",
+      "dbn": "01M539",
+      "code": "M29A",
+      "borough": "Manhattan",
+      "criteria": "Average course grades 50%; online admissions activity 50%",
+      "priorities": "1. Continuing 8th graders \u2192 2. NYC residents",
+      "dia": 66,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 114,
+        "applicants": 1873,
+        "applications_per_seat": 16,
+        "all_seats_filled": true
+      },
+      "grade10": false,
+      "kind": "Online essay",
+      "deadline": "Dec 4, 2026, 11:59pm ET",
+      "task": "Write 450\u2013700 words explaining what excites you about joining NEST+m. Use specific examples connecting your values, interests and experiences to its ethos and programs, and explain your contribution to the community. Review the supplied school resources and rubric. Submit the Google Form once; write independently. No entrance test is required.",
+      "links": [
+        [
+          "Instructions",
+          "https://www.nestmk12.net/apps/pages/admissions_upper"
+        ],
+        [
+          "Prompt & resources",
+          "https://docs.google.com/document/d/1Rux-N90oQLxt1I-idQgjZryNIbQFT3HqD6lJkRHF-IY/edit"
+        ],
+        [
+          "Submit essay",
+          "https://docs.google.com/forms/d/e/1FAIpQLSfUfVQ04WJ1yT2yPZ5wW8fjgFdJ-aqgFMijlPxwoMAyvGlZKg/viewform"
+        ]
+      ],
+      "caution": "The prompt file\u2019s title says 2025\u201326, but its body says 2026\u201327 and gives the Dec 4, 2026 deadline. School prose describes the grades component as a screened group; MySchools/NYCPS list average course grades. DIA applies only to new/non-continuing seats.",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/01M539/"
+    },
+    {
+      "name": "School of the Future",
+      "dbn": "02M413",
+      "code": "M83A",
+      "borough": "Manhattan",
+      "criteria": "Average course grades 70%; essay 30%",
+      "priorities": "1. Continuing 8th graders \u2192 2. NYC residents",
+      "dia": 66,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 82,
+        "applicants": 276,
+        "applications_per_seat": 3,
+        "all_seats_filled": true
+      },
+      "grade10": true,
+      "kind": "Shared Consortium essay",
+      "deadline": "Complete with application by Dec 4, 2026",
+      "task": "Complete the shared Consortium essay described above: one response of 500 words or fewer, submitted once through MySchools \u2192 Additional Materials. Rank each desired participating program separately.",
+      "links": [
+        [
+          "Official shared prompts & instructions",
+          "https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/high-school/assessments-for-screened-schools"
+        ],
+        [
+          "MySchools \u2014 Additional Materials",
+          "https://myschools.nyc/en/"
+        ]
+      ],
+      "caution": "",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/02M413/"
+    },
+    {
+      "name": "Bard High School Early College \u2014 Manhattan",
+      "dbn": "01M696",
+      "code": "M51A",
+      "borough": "Manhattan",
+      "criteria": "Average course grades 10%; humanities response 30%; math 30%; interview 30%",
+      "priorities": "NYC residents",
+      "dia": 50,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 118,
+        "applicants": 1445,
+        "applications_per_seat": 12,
+        "all_seats_filled": true
+      },
+      "grade10": false,
+      "kind": "In-person assessment + interview",
+      "deadline": "Register now; MySchools due Dec 4, 2026",
+      "task": "Register for one 90-minute in-person math and humanities/writing assessment. Math is based on end-of-7th-grade standards; no calculator. Strong assessment results lead to an invitation for a 15\u201320-minute interview. Take the assessment only once, at any NYC Bard campus; the score can serve both Manhattan and Brooklyn. Rank each campus separately in MySchools. Registration offers accommodation-specific sessions and documentation instructions.",
+      "links": [
+        [
+          "Assessment instructions & dates",
+          "https://bhsec.bard.edu/manhattan/admission/assessment/"
+        ],
+        [
+          "Register for Bard assessment",
+          "https://form.jotform.com/260335242881051"
+        ]
+      ],
+      "caution": "Upcoming published Manhattan GE date: Nov 7 (9am, noon, 3pm). More dates may be added; availability is only confirmed in registration. The school warns that late testing may yield interview results after the application deadline.",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/01M696/"
+    },
+    {
+      "name": "Beacon High School",
+      "dbn": "03M479",
+      "code": "M71A",
+      "borough": "Manhattan",
+      "criteria": "Average course grades 50%; essay 50%",
+      "priorities": "NYC residents",
+      "dia": 66,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 274,
+        "applicants": 2876,
+        "applications_per_seat": 10,
+        "all_seats_filled": true
+      },
+      "grade10": false,
+      "kind": "In-person written response",
+      "deadline": "Choose one session; dates Nov 4\u2013Dec 2, 2026",
+      "task": "Register for ONE in-person written-response session. Respond to an on-demand prompt, on one lined sheet (front and back). Published examples concern growth/contribution in a Consortium school or an intellectual risk; the actual prompt will differ. Choose the appropriate session: some are restricted to students needing documented accommodations. The school page provides separate date/time signup links.",
+      "links": [
+        [
+          "Choose a session & register",
+          "https://www.beaconschool.org/apps/pages/index.jsp?type=d&uREC_ID=604580"
+        ]
+      ],
+      "caution": "This assessment is separate from the common Consortium essay upload. Posted sessions: Nov 4, 7, 8, 10, 14, 15, 21, 23; Dec 1, 2. Check the session description and live capacity.",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/03M479/"
+    },
+    {
+      "name": "Manhattan / Hunter Science High School",
+      "dbn": "03M541",
+      "code": "M55A",
+      "borough": "Manhattan",
+      "criteria": "Average course grades 70%; essay 30%",
+      "priorities": "NYC residents",
+      "dia": 69,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 82,
+        "applicants": 1954,
+        "applications_per_seat": 24,
+        "all_seats_filled": true
+      },
+      "grade10": false,
+      "kind": "Supplemental application + personal statement",
+      "deadline": "Dec 4, 2026, 11:59pm",
+      "task": "Rank M55A in MySchools and complete the school\u2019s supplemental application and applicant-written personal statement. The school\u2019s embedded instructions explicitly cover 2027\u201328. Both supplemental components are required. Only one application per student.",
+      "links": [
+        [
+          "Current instructions & writing rubric",
+          "https://www.mhshs.org/application-information"
+        ],
+        [
+          "Supplemental application",
+          "https://forms.gle/LzcY9UAiScmUFNA39"
+        ]
+      ],
+      "caution": "Form verified as \u201c2027\u20132028 \u2026 incoming 9th Grade ONLY.\u201d Later form pages require personal information; the exact personal-statement prompt/length was not visible without advancing. Read those instructions before drafting.",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/03M541/"
+    },
+    {
+      "name": "Frank McCourt High School",
+      "dbn": "03M417",
+      "code": "A21A",
+      "borough": "Manhattan",
+      "criteria": "Average course grades 20%; interview/online form 80%",
+      "priorities": "NYC residents",
+      "dia": 66,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 91,
+        "applicants": 186,
+        "applications_per_seat": 2,
+        "all_seats_filled": true
+      },
+      "grade10": false,
+      "kind": "Online essay/form",
+      "deadline": "No separate deadline visible; confirm with school",
+      "task": "The school links an online admissions essay. Select three aspects of FMHS that interest you, then explain why in at least 250 words. Options include revision, competency learning, advisory, peer mentors, integrated curriculum, intersession, block scheduling, collaboration and diversity. Read the form\u2019s rubric.",
+      "links": [
+        [
+          "Instructions & rubric",
+          "https://www.fmhsnyc.org/admissions_process"
+        ],
+        [
+          "Complete admissions essay",
+          "https://forms.gle/JJwbabRGgnD5zKNt5"
+        ]
+      ],
+      "caution": "MySchools calls the 80% component \u201cInterview/Online Form\u201d; the currently linked school task is an essay form. No separate interview requirement or cycle-specific essay deadline was visible. The form includes a 10th-grade choice while MySchools lists no 10th-grade seats; confirm if relevant.",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/03M417/"
+    },
+    {
+      "name": "Medgar Evers College Preparatory School",
+      "dbn": "17K590",
+      "code": "K77A",
+      "borough": "Brooklyn",
+      "criteria": "Average course grades 40%; math assessment 25%; essay 25%; interview 10%",
+      "priorities": "1. Continuing 8th graders \u2192 2. NYC residents",
+      "dia": 76,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 178,
+        "applicants": 524,
+        "applications_per_seat": 3,
+        "all_seats_filled": true
+      },
+      "grade10": false,
+      "kind": "Math + essay + interview",
+      "deadline": "Current registration/date not verified",
+      "task": "Current MySchools and NYCPS require math, essay and interview components. The school\u2019s grade-9 page describes an ELA/math assessment and parent/student interview, with prior/current report cards. Contact grade-9 admissions for the Fall 2027 assessment date and registration before using an old form: 718-703-5400; 9thGradeAdmissions@mecps.org.",
+      "links": [
+        [
+          "Grade-9 admissions",
+          "https://www.mecps.org/apps/pages/index.jsp?hideMenu=0&pREC_ID=1191050&type=d&uREC_ID=283076"
+        ],
+        [
+          "Official current criteria",
+          "https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/high-school/assessments-for-screened-schools"
+        ]
+      ],
+      "caution": "School pages are stale: grade-9 date Dec 13, 2025; linked registration says April 18, 2026. Its format page also lists a conflicting 40/20/20/20 breakdown. Use the current MySchools/NYCPS 40/25/25/10 criteria pending school clarification. No current signup is claimed.",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/17K590/"
+    },
+    {
+      "name": "Brooklyn College Academy",
+      "dbn": "22K555",
+      "code": "K84X",
+      "borough": "Brooklyn",
+      "criteria": "Average course grades 50%; school-based assessment 50%",
+      "priorities": "1. Brooklyn students or residents \u2192 2. NYC residents",
+      "dia": 76,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 138,
+        "applicants": 813,
+        "applications_per_seat": 6,
+        "all_seats_filled": true
+      },
+      "grade10": false,
+      "kind": "School-based assessment",
+      "deadline": "Task and current signup not verified",
+      "task": "MySchools confirms a school-based assessment but does not specify its format in the selection criteria. The official linked school website returned 404 in the signed-in browser. Contact the school for its current assessment instructions, rubric, deadline and registration: 718-853-6184. Do not assume the task is an essay, interview or test.",
+      "links": [
+        [
+          "Official school contact",
+          "https://www.schools.nyc.gov/Schools/K555"
+        ],
+        [
+          "NYCPS assessment listing",
+          "https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/high-school/assessments-for-screened-schools"
+        ]
+      ],
+      "caution": "The linked Google Site is unavailable. Exact task and signup remain unverified. Brooklyn priority is material: the signed-in display reported no offers last year to the small NYC-only priority group; that is historical evidence, not a forecast.",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/22K555/"
+    },
+    {
+      "name": "STAR Early College High School at Erasmus",
+      "dbn": "17K543",
+      "code": "K14A",
+      "borough": "Brooklyn",
+      "criteria": "Average course grades 20%; interview 20%; math assessment 30%; ELA assessment 30%",
+      "priorities": "1. Continuing 8th graders \u2192 2. Brooklyn students or residents \u2192 3. NYC residents",
+      "dia": null,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 113,
+        "applicants": 142,
+        "applications_per_seat": 1,
+        "all_seats_filled": true
+      },
+      "grade10": true,
+      "kind": "Math + ELA + interview",
+      "deadline": "Published sessions Nov 7 and Nov 9, 2026",
+      "task": "The school posts an entrance exam/interview on Nov 7, 10am\u20132pm (with open house), and Nov 9, 4\u20137:30pm. A separate Nov 5, 6\u20138pm event is an open house only. Venue: 911 Flatbush Avenue. No separate signup link was visible on the announcement; contact 718-564-2540 to confirm registration, attendance instructions and what to bring.",
+      "links": [
+        [
+          "Current exam/interview announcement",
+          "https://www.starearlycollege.org/apps/news/show_news.jsp?REC_ID=1036082&id=0"
+        ],
+        [
+          "Admissions page",
+          "https://www.starearlycollege.org/apps/pages/?pREC_ID=1186562&type=d&uREC_ID=618835"
+        ]
+      ],
+      "caution": "Announcement combines middle- and high-school sessions; confirm the grade-9 process. Brooklyn applicants have priority over other NYC applicants; do not read one application per seat as easy admission for every group.",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/17K543/"
+    },
+    {
+      "name": "Bard High School Early College \u2014 Brooklyn",
+      "dbn": "19K965",
+      "code": "K81A",
+      "borough": "Brooklyn",
+      "criteria": "Average course grades 10%; humanities response 30%; math 30%; interview 30%",
+      "priorities": "NYC residents; district seat priorities: D19/23 up to 40%; D16/17/18/32 up to 40%; D13/14/15/20/21/22 up to 10%",
+      "dia": null,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 101,
+        "applicants": 479,
+        "applications_per_seat": 5,
+        "all_seats_filled": false
+      },
+      "grade10": false,
+      "kind": "In-person assessment + interview",
+      "deadline": "Register now; MySchools due Dec 4, 2026",
+      "task": "Register for one 90-minute in-person math and humanities/writing assessment. Math is based on end-of-7th-grade standards; no calculator. Strong assessment results lead to an invitation for a 15\u201320-minute interview. Take the assessment only once, at any NYC Bard campus; the score can serve both Manhattan and Brooklyn. Rank each campus separately in MySchools. Registration offers accommodation-specific sessions and documentation instructions.",
+      "links": [
+        [
+          "Brooklyn assessment instructions",
+          "https://bhsec.bard.edu/brooklyn/admission/assessment/"
+        ],
+        [
+          "Register for Bard assessment",
+          "https://form.jotform.com/260335242881051"
+        ]
+      ],
+      "caution": "These are geographic seat priorities, not an FRL percentage. One shared Bard assessment is enough, but each desired campus must appear on the MySchools application.",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/19K965/"
+    },
+    {
+      "name": "Kingsborough Early College School",
+      "dbn": "21K468",
+      "code": "L55A",
+      "borough": "Brooklyn",
+      "criteria": "Average course grades 60%; interview 40%",
+      "priorities": "1. Continuing 8th graders \u2192 2. NYC residents",
+      "dia": 76,
+      "last_year": {
+        "seating_group": "General Education",
+        "seats": 89,
+        "applicants": 264,
+        "applications_per_seat": 3,
+        "all_seats_filled": true
+      },
+      "grade10": false,
+      "kind": "Interview",
+      "deadline": "Current interview signup/date not verified",
+      "task": "The older admissions page asks grade-9 applicants to participate in an interview and points readers to the new school website. A current interview scheduling form and deadline could not be verified. Contact the school at 718-333-7850 to arrange the required interview and request its rubric.",
+      "links": [
+        [
+          "Current school website & contact",
+          "https://www.kecss.info/"
+        ],
+        [
+          "Older admissions instructions",
+          "https://sites.google.com/site/kecsshome/admissions"
+        ]
+      ],
+      "caution": "The old Google Site has a migration notice. Treat its interview link as unverified; the Oct 22, 2026 high-school open house has already passed and is not proof an interview was completed.",
+      "myschools": "https://www.myschools.nyc/en/schools/high-school/21K468/"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_on": "2026-10-22",
+  "updated_on": "2026-10-26",
   "scope": "Public sources used in the school guide and recommendations. Account pages, private family notes, credentials and application identifiers are excluded.",
   "entries": [
     {
@@ -1520,7 +1520,8 @@
       "url": "https://www.myschools.nyc/en/schools/high-school/01M539/",
       "category": "MySchools",
       "schools": [
-        "New Explorations into Science, Technology and Math High School (NEST+m)"
+        "New Explorations into Science, Technology and Math High School (NEST+m)",
+        "NEST+m"
       ],
       "recorded_on": "2026-10-16"
     },
@@ -1528,7 +1529,8 @@
       "url": "https://www.myschools.nyc/en/schools/high-school/01M696/",
       "category": "MySchools",
       "schools": [
-        "Bard High School Early College"
+        "Bard High School Early College",
+        "Bard High School Early College — Manhattan"
       ],
       "recorded_on": "2026-10-16"
     },
@@ -1654,7 +1656,8 @@
       "url": "https://www.myschools.nyc/en/schools/high-school/02M374/",
       "category": "MySchools",
       "schools": [
-        "Gramercy Arts High School"
+        "Gramercy Arts High School",
+        "Gramercy Arts High School — Capstone Scholars"
       ],
       "recorded_on": "2026-10-16"
     },
@@ -1746,7 +1749,8 @@
       "url": "https://www.myschools.nyc/en/schools/high-school/02M413/",
       "category": "MySchools",
       "schools": [
-        "School of the Future High School"
+        "School of the Future High School",
+        "School of the Future"
       ],
       "recorded_on": "2026-10-16"
     },
@@ -2099,7 +2103,9 @@
     {
       "url": "https://www.myschools.nyc/en/schools/high-school/03M417/",
       "category": "MySchools",
-      "schools": [],
+      "schools": [
+        "Frank McCourt High School"
+      ],
       "recorded_on": "2026-10-16"
     },
     {
@@ -5082,7 +5088,8 @@
       "url": "https://bhsec.bard.edu/manhattan/admission/assessment/",
       "category": "School and other official websites",
       "schools": [
-        "Bard High School Early College"
+        "Bard High School Early College",
+        "Bard High School Early College — Manhattan"
       ],
       "recorded_on": "2026-10-16"
     },
@@ -8335,6 +8342,227 @@
         "New Explorations into Science, Technology and Math High School (NEST+m)"
       ],
       "recorded_on": "2026-10-18"
+    },
+    {
+      "url": "https://www.nycischool.org/online-admissions-activity-open",
+      "category": "Admissions assessment",
+      "schools": [
+        "NYC iSchool"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScoTRbpObcVCayTwefUGIp2i3T8mAbeIONSatSbF3W2EBmSDQ/viewform",
+      "category": "Admissions assessment",
+      "schools": [
+        "NYC iSchool"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.gramercyhs.org/apps/pages/index.jsp?uREC_ID=4445417&type=d&pREC_ID=2685012",
+      "category": "Admissions assessment",
+      "schools": [
+        "Gramercy Arts High School — Capstone Scholars"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSf5rWCGkhp_Ne1XIBqGKz8lPK-gmujPiiIvXGddy6Ou53O_IA/viewform?usp=preview",
+      "category": "Admissions assessment",
+      "schools": [
+        "Gramercy Arts High School — Capstone Scholars"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/high-school/assessments-for-screened-schools",
+      "category": "Admissions assessment",
+      "schools": [
+        "East Side Community School",
+        "Institute for Collaborative Education (ICE)",
+        "School of the Future",
+        "Medgar Evers College Preparatory School",
+        "Brooklyn College Academy"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.nestmk12.net/apps/pages/admissions_upper",
+      "category": "Admissions assessment",
+      "schools": [
+        "NEST+m"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1Rux-N90oQLxt1I-idQgjZryNIbQFT3HqD6lJkRHF-IY/edit",
+      "category": "Admissions assessment",
+      "schools": [
+        "NEST+m"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfUfVQ04WJ1yT2yPZ5wW8fjgFdJ-aqgFMijlPxwoMAyvGlZKg/viewform",
+      "category": "Admissions assessment",
+      "schools": [
+        "NEST+m"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://form.jotform.com/260335242881051",
+      "category": "Admissions assessment",
+      "schools": [
+        "Bard High School Early College — Manhattan",
+        "Bard High School Early College — Brooklyn"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.mhshs.org/application-information",
+      "category": "Admissions assessment",
+      "schools": [
+        "Manhattan / Hunter Science High School"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://forms.gle/LzcY9UAiScmUFNA39",
+      "category": "Admissions assessment",
+      "schools": [
+        "Manhattan / Hunter Science High School"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://forms.gle/JJwbabRGgnD5zKNt5",
+      "category": "Admissions assessment",
+      "schools": [
+        "Frank McCourt High School"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.myschools.nyc/en/schools/high-school/17K590/",
+      "category": "Admissions assessment",
+      "schools": [
+        "Medgar Evers College Preparatory School"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.mecps.org/apps/pages/index.jsp?hideMenu=0&pREC_ID=1191050&type=d&uREC_ID=283076",
+      "category": "Admissions assessment",
+      "schools": [
+        "Medgar Evers College Preparatory School"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.myschools.nyc/en/schools/high-school/22K555/",
+      "category": "Admissions assessment",
+      "schools": [
+        "Brooklyn College Academy"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.schools.nyc.gov/Schools/K555",
+      "category": "Admissions assessment",
+      "schools": [
+        "Brooklyn College Academy"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.myschools.nyc/en/schools/high-school/17K543/",
+      "category": "Admissions assessment",
+      "schools": [
+        "STAR Early College High School at Erasmus"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.starearlycollege.org/apps/news/show_news.jsp?REC_ID=1036082&id=0",
+      "category": "Admissions assessment",
+      "schools": [
+        "STAR Early College High School at Erasmus"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.starearlycollege.org/apps/pages/?pREC_ID=1186562&type=d&uREC_ID=618835",
+      "category": "Admissions assessment",
+      "schools": [
+        "STAR Early College High School at Erasmus"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.myschools.nyc/en/schools/high-school/19K965/",
+      "category": "Admissions assessment",
+      "schools": [
+        "Bard High School Early College — Brooklyn"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://bhsec.bard.edu/brooklyn/admission/assessment/",
+      "category": "Admissions assessment",
+      "schools": [
+        "Bard High School Early College — Brooklyn"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.myschools.nyc/en/schools/high-school/21K468/",
+      "category": "Admissions assessment",
+      "schools": [
+        "Kingsborough Early College School"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://www.kecss.info/",
+      "category": "Admissions assessment",
+      "schools": [
+        "Kingsborough Early College School"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
+    },
+    {
+      "url": "https://sites.google.com/site/kecsshome/admissions",
+      "category": "Admissions assessment",
+      "schools": [
+        "Kingsborough Early College School"
+      ],
+      "recorded_on": "2026-10-26",
+      "evidence_year": "Fall 2027 admissions; see guide for stale-page cautions"
     }
   ]
 }
