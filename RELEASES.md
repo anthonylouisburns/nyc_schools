@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-26.8 | October 26, 2026 | Add matching asterisks to the two Bard entries and a shared-booking footnote. | `release-2026-10-26.8` |
 | 2026-10-26.7 | October 26, 2026 | Highlight the five first-column booking/exam actions in bright green, with a legend and existing verification cautions retained. | `release-2026-10-26.7` |
 | 2026-10-26.6 | October 26, 2026 | Arrange the action index in three columns of five schools, numbered 1–5, 6–10 and 11–15; put assessment booking actions first. | `release-2026-10-26.6` |
 | 2026-10-26.5 | October 26, 2026 | Tighten spacing in the assessment index and detail cards while retaining all school addresses, actions, deadlines and links. | `release-2026-10-26.5` |
@@ -75,3 +76,5 @@ Validation for 2026-10-26.5: CSS-only reference-page layout change; 15 school en
 Validation for 2026-10-26.6: three five-school lists have sequential numbering starts 1/6/11 and all 15 unique anchors. Booking-first column contains Beacon, both Bard campuses, STAR and Medgar Evers; uncertain interview/assessment scheduling follows. Addresses and timing labels retained. Mobile columns stack. Family encrypted pages, redirects and saved data unchanged.
 
 Validation for 2026-10-26.7: five booking/exam entries highlighted; all 15 school links, addresses, deadlines and three-column numbering preserved. Green indicates an action, not verified session availability or admission chances. No research, encrypted payload or backend changes.
+
+Validation for 2026-10-26.8: both Bard entries have accessible shared-booking markers and one explanatory footnote. All 15 schools, three-column order, booking highlights, addresses and dates retained. Encrypted family pages, redirects and saved data unchanged.
