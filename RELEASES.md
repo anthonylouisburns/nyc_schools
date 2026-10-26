@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-26.3 | October 26, 2026 | Combine booking actions and school navigation into one 15-school index with submission deadlines, assessment dates and explicit unverified-deadline labels. | `release-2026-10-26.3` |
 | 2026-10-26.2 | October 26, 2026 | Expand the booking summary to all 15 schools, with individual links and explicit online, booking and unverified-format actions. | `release-2026-10-26.2` |
 | 2026-10-26.1 | October 26, 2026 | Add a public 15-school Brooklyn/Manhattan screened-assessment reference with MySchools criteria, priorities, historical GE demand, screening instructions, booking/submission links, brief audition guidance and explicit stale-source cautions. | `release-2026-10-26.1` |
 | 2026-10-22.1 | October 22, 2026 | Refresh the encrypted middle-school interest review, preserve all 30 selections, add three separate research options and intake-status cautions; update public research sources. | `release-2026-10-22.1` |
@@ -60,3 +61,5 @@ Validation for 2026-10-22.1: read the current shared middle-school choices and n
 Validation for 2026-10-26.1: confirmed 15 results with only Brooklyn/Manhattan and Screened With Assessment selected in signed-in MySchools; read every assessed program’s criteria. School websites and linked forms checked where accessible; unavailable/current-cycle gaps are labeled. Public reference excludes applicant/account data and personal estimates. Existing encrypted family bundle and both recommendation entry pages were checked together and retained byte-for-byte; no private payload, recommendations, identifiers, redirects, notes, choices or backend configuration changed. No new encrypted payload build was needed for this independent public supplement. TypeScript and structural checks pass; browser layout/filter verification performed.
 
 Validation for 2026-10-26.2: summary contains all 15 unique schools and matching detail anchors. No admissions research or recommendation changes. Kingsborough interview format remains unverified; Brooklyn College Academy attendance is also unverified. Existing encrypted family pages, redirects, saved notes and choices remain unchanged.
+
+Validation for 2026-10-26.3: combined index has 15 unique school links, 15 next steps and 15 timing labels; no duplicate jump list. Existing published research supplies deadlines; appointment dates and MySchools application deadlines are distinguished. No private payload, recommendations, notes, choices or backend changes. Existing encrypted entry pages and redirects remain unchanged.
