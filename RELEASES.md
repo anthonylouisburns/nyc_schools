@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-26.10 | October 26, 2026 | Replace the second Bard deadline line with a #2 reference to its shared assessment booking. | `release-2026-10-26.10` |
 | 2026-10-26.9 | October 26, 2026 | Limit bright green booking highlights to deadline/date lines instead of whole school entries. | `release-2026-10-26.9` |
 | 2026-10-26.8 | October 26, 2026 | Add matching asterisks to the two Bard entries and a shared-booking footnote. | `release-2026-10-26.8` |
 | 2026-10-26.7 | October 26, 2026 | Highlight the five first-column booking/exam actions in bright green, with a legend and existing verification cautions retained. | `release-2026-10-26.7` |
@@ -81,3 +82,5 @@ Validation for 2026-10-26.7: five booking/exam entries highlighted; all 15 schoo
 Validation for 2026-10-26.8: both Bard entries have accessible shared-booking markers and one explanatory footnote. All 15 schools, three-column order, booking highlights, addresses and dates retained. Encrypted family pages, redirects and saved data unchanged.
 
 Validation for 2026-10-26.9: green background scoped to the five booking deadline/date lines; school names, addresses and action descriptions retain their normal background. All school content, shared-booking markers, encrypted pages and saved data unchanged.
+
+Validation for 2026-10-26.10: Bard Brooklyn deadline line references #2 (Bard Manhattan); shared-booking marker and all underlying assessment details retained. No encrypted payload or saved-data changes.
