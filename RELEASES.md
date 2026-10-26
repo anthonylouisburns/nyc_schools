@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-26.6 | October 26, 2026 | Arrange the action index in three columns of five schools, numbered 1–5, 6–10 and 11–15; put assessment booking actions first. | `release-2026-10-26.6` |
 | 2026-10-26.5 | October 26, 2026 | Tighten spacing in the assessment index and detail cards while retaining all school addresses, actions, deadlines and links. | `release-2026-10-26.5` |
 | 2026-10-26.4 | October 26, 2026 | Add school addresses and map links to the combined 15-school action index, plus addresses on detail cards. | `release-2026-10-26.4` |
 | 2026-10-26.3 | October 26, 2026 | Combine booking actions and school navigation into one 15-school index with submission deadlines, assessment dates and explicit unverified-deadline labels. | `release-2026-10-26.3` |
@@ -69,3 +70,5 @@ Validation for 2026-10-26.3: combined index has 15 unique school links, 15 next 
 Validation for 2026-10-26.4: all 15 index entries have a school address and map link; all detail cards have the matching address. Addresses use existing MySchools inventory and official school evidence inspected for this guide. These are school addresses; assessment location must follow the chosen session confirmation, especially for shared Bard testing. Public reference data synchronized. Encrypted pages, redirects, notes, choices and backend unchanged.
 
 Validation for 2026-10-26.5: CSS-only reference-page layout change; 15 school entries, index addresses, timing labels and detail cards retained. Existing encrypted family pages, redirects, research data, notes and consideration choices unchanged.
+
+Validation for 2026-10-26.6: three five-school lists have sequential numbering starts 1/6/11 and all 15 unique anchors. Booking-first column contains Beacon, both Bard campuses, STAR and Medgar Evers; uncertain interview/assessment scheduling follows. Addresses and timing labels retained. Mobile columns stack. Family encrypted pages, redirects and saved data unchanged.
