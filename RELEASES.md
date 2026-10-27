@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-26.13 | October 26, 2026 | Add encrypted Brooklyn and Manhattan screened-school directories with program estimate bars and addresses; Manhattan adds Niche grades, brief descriptions and requested geographic ordering. | `release-2026-10-26.13` |
 | 2026-10-26.12 | October 26, 2026 | Update BCA with its current admissions page, next open house and post-open-house assessment-link instructions. | `release-2026-10-26.12` |
 | 2026-10-26.11 | October 26, 2026 | Match assessment detail order/numbering to its index and mark #6/#7 scheduling actions. | `release-2026-10-26.11` |
 | 2026-10-26.10 | October 26, 2026 | Replace the second Bard deadline line with a #2 reference to its shared assessment booking. | `release-2026-10-26.10` |
@@ -90,3 +91,5 @@ Validation for 2026-10-26.10: Bard Brooklyn deadline line references #2 (Bard Ma
 Validation for 2026-10-26.11: assessment index and details have identical 15-school order; seven scheduling/confirmation date lines highlighted. No existing encrypted payload or saved data changed in this preparation release.
 
 Validation for 2026-10-26.12: current BCA Class of 2031 page inspected; next listed open house November 19, 2026 at 4pm, assessment link supplied after open house. Format and assessment deadline remain unverified. Assessment index/details retain matched numbering. No encrypted payload or saved data changed.
+
+Validation for 2026-10-26.13: signed-in MySchools search confirms 25 Brooklyn and 24 Manhattan schools with Screened and one borough selected. All displayed program codes retained; bars reproduce High/Medium/Low categories, with unestimated programs gray. Manhattan grouped lower midtown, upper midtown, downtown, above-59th west, above-59th east. Niche grades linked and checked, with middle-school scope caveat for Mott Hall II. All five encrypted pages rebuilt and self-decrypted together using the existing password; original data, reviews, profiles and notes access compared unchanged. Existing neighborhood redirects retained. Public source register has no account/profile identifiers or personal estimates.

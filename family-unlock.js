@@ -24,6 +24,7 @@ async function openFamilyGuide(material,remember=false){
   let saved=false;
   if(remember){try{await rememberedAccess.save(material);saved=true;}catch{}}
   document.getElementById('password').value='';window.__FAMILY_DATA__=payload;
+  const supplementalPage=payload.screenedPages?.[location.pathname.split('/').pop()];if(supplementalPage){payload.html=supplementalPage.html;payload.css=supplementalPage.css;payload.js=supplementalPage.js;}
   const doc=new DOMParser().parseFromString(payload.html,'text/html');
   document.documentElement.replaceChildren(...Array.from(doc.documentElement.childNodes).map(n=>document.importNode(n,true)));
   const style=document.createElement('style');style.textContent=payload.css;document.head.append(style);
