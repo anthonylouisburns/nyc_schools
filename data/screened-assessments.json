@@ -393,20 +393,16 @@
         "all_seats_filled": true
       },
       "grade10": false,
-      "kind": "School-based assessment",
-      "deadline": "Task and current signup not verified",
-      "task": "MySchools confirms a school-based assessment but does not specify its format in the selection criteria. The official linked school website returned 404 in the signed-in browser. Contact the school for its current assessment instructions, rubric, deadline and registration: 718-853-6184. Do not assume the task is an essay, interview or test.",
+      "kind": "Open house \u2192 school-based assessment",
+      "deadline": "Next open house: Nov 19, 2026, 4pm; assessment deadline not posted",
+      "task": "The current Class of 2031 admissions page asks applicants to apply through MySchools and attend an open house to learn about the early-college program. The school says the assessment link is provided after the open house. The next listed event is November 19, 2026 at 4pm (October 22 has passed). Contact 718-853-6184 for attendance instructions and to obtain the assessment link if you already attended.",
       "links": [
         [
-          "Official school contact",
-          "https://www.schools.nyc.gov/Schools/K555"
-        ],
-        [
-          "NYCPS assessment listing",
-          "https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/high-school/assessments-for-screened-schools"
+          "Current BCA admissions instructions",
+          "https://www.brooklyncollegeacademy.com/apps/pages/index.jsp?uREC_ID=4461394&type=d&pREC_ID=2729196"
         ]
       ],
-      "caution": "The linked Google Site is unavailable. Exact task and signup remain unverified. Brooklyn priority is material: the signed-in display reported no offers last year to the small NYC-only priority group; that is historical evidence, not a forecast.",
+      "caution": "Current school page verified October 26, 2026. It confirms 50% course grades and 50% school-based assessment, but does not specify the assessment format, submission deadline or an exam/interview appointment. Do not assume it requires an in-person exam. Main site: 350 Coney Island Avenue; follow school instructions for the event venue.",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/22K555/",
       "address": "350 Coney Island Avenue, Brooklyn, NY 11218",
       "address_source": "https://www.myschools.nyc/en/schools/high-school/22K555/"

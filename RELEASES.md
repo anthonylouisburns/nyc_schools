@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-26.12 | October 26, 2026 | Update BCA with its current admissions page, next open house and post-open-house assessment-link instructions. | `release-2026-10-26.12` |
 | 2026-10-26.11 | October 26, 2026 | Match assessment detail order/numbering to its index and mark #6/#7 scheduling actions. | `release-2026-10-26.11` |
 | 2026-10-26.10 | October 26, 2026 | Replace the second Bard deadline line with a #2 reference to its shared assessment booking. | `release-2026-10-26.10` |
 | 2026-10-26.9 | October 26, 2026 | Limit bright green booking highlights to deadline/date lines instead of whole school entries. | `release-2026-10-26.9` |
@@ -87,3 +88,5 @@ Validation for 2026-10-26.9: green background scoped to the five booking deadlin
 Validation for 2026-10-26.10: Bard Brooklyn deadline line references #2 (Bard Manhattan); shared-booking marker and all underlying assessment details retained. No encrypted payload or saved-data changes.
 
 Validation for 2026-10-26.11: assessment index and details have identical 15-school order; seven scheduling/confirmation date lines highlighted. No existing encrypted payload or saved data changed in this preparation release.
+
+Validation for 2026-10-26.12: current BCA Class of 2031 page inspected; next listed open house November 19, 2026 at 4pm, assessment link supplied after open house. Format and assessment deadline remain unverified. Assessment index/details retain matched numbering. No encrypted payload or saved data changed.
