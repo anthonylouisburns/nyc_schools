@@ -30,6 +30,7 @@ async function openFamilyGuide(material,remember=false){
   const style=document.createElement('style');style.textContent=payload.css;document.head.append(style);
   const script=document.createElement('script');script.textContent=payload.js;document.body.append(script);
   if(location.pathname.endsWith('/screened-brooklyn.html')){const gradesScript=document.createElement('script');gradesScript.src='niche-grades.js';document.body.append(gradesScript);}
+  if(!document.querySelector('header a[href="open-edopt-manhattan.html"]')){const link=document.createElement('a');link.href='open-edopt-manhattan.html';link.textContent='Manhattan Open & Ed Opt';document.querySelector('header')?.append(link);}
   const lock=document.createElement('button');lock.type='button';lock.className='guide-lock';lock.textContent='Lock guide';
   lock.addEventListener('click',async()=>{lock.disabled=true;try{await rememberedAccess.clear();location.reload();}catch{lock.disabled=false;lock.textContent='Could not lock — try again';}});
   document.querySelector('header')?.append(lock);
