@@ -31,6 +31,7 @@ async function openFamilyGuide(material,remember=false){
   const script=document.createElement('script');script.textContent=payload.js;document.body.append(script);
   if(location.pathname.endsWith('/screened-brooklyn.html')){const gradesScript=document.createElement('script');gradesScript.src='niche-grades.js';document.body.append(gradesScript);}
   if(!document.querySelector('header a[href="open-edopt-manhattan.html"]')){const link=document.createElement('a');link.href='open-edopt-manhattan.html';link.textContent='Manhattan Open & Ed Opt';document.querySelector('header')?.append(link);}
+  if(payload.compactPdf){const pdf=payload.compactPdf;const pdfUrl=URL.createObjectURL(new Blob([bytes(pdf.base64)],{type:'application/pdf'}));const download=document.createElement('a');download.id='compact-pdf';download.href=pdfUrl;download.download=pdf.filename;download.textContent='Download compact PDF ('+pdf.pages+' pages)';document.querySelector('header')?.append(download);window.addEventListener('pagehide',()=>URL.revokeObjectURL(pdfUrl),{once:true});}
   const lock=document.createElement('button');lock.type='button';lock.className='guide-lock';lock.textContent='Lock guide';
   lock.addEventListener('click',async()=>{lock.disabled=true;try{await rememberedAccess.clear();location.reload();}catch{lock.disabled=false;lock.textContent='Could not lock — try again';}});
   document.querySelector('header')?.append(lock);
