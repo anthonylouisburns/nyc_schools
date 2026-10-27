@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-26.14 | October 26, 2026 | Add clickable Niche overall grades to all 25 Brooklyn entries and the 15-school assessment index/details, with missing-grade, former-name and grade-span labels. | `release-2026-10-26.14` |
 | 2026-10-26.13 | October 26, 2026 | Add encrypted Brooklyn and Manhattan screened-school directories with program estimate bars and addresses; Manhattan adds Niche grades, brief descriptions and requested geographic ordering. | `release-2026-10-26.13` |
 | 2026-10-26.12 | October 26, 2026 | Update BCA with its current admissions page, next open house and post-open-house assessment-link instructions. | `release-2026-10-26.12` |
 | 2026-10-26.11 | October 26, 2026 | Match assessment detail order/numbering to its index and mark #6/#7 scheduling actions. | `release-2026-10-26.11` |
@@ -93,3 +94,5 @@ Validation for 2026-10-26.11: assessment index and details have identical 15-sch
 Validation for 2026-10-26.12: current BCA Class of 2031 page inspected; next listed open house November 19, 2026 at 4pm, assessment link supplied after open house. Format and assessment deadline remain unverified. Assessment index/details retain matched numbering. No encrypted payload or saved data changed.
 
 Validation for 2026-10-26.13: signed-in MySchools search confirms 25 Brooklyn and 24 Manhattan schools with Screened and one borough selected. All displayed program codes retained; bars reproduce High/Medium/Low categories, with unestimated programs gray. Manhattan grouped lower midtown, upper midtown, downtown, above-59th west, above-59th east. Niche grades linked and checked, with middle-school scope caveat for Mott Hall II. All five encrypted pages rebuilt and self-decrypted together using the existing password; original data, reviews, profiles and notes access compared unchanged. Existing neighborhood redirects retained. Public source register has no account/profile identifiers or personal estimates.
+
+Validation for 2026-10-26.14: 40 Niche school profiles checked; 39 overall letter grades and one ungraded Bard Brooklyn profile. Assessment index and details each retain 15 matching entries with Niche links. Brooklyn grades load from a public grade-only register after normal family decryption. All five encrypted entry shells rebuilt together with identical original ciphertext; personalized content and access configuration unchanged. No password was saved or needed for this public-data enhancement. No notes or consideration changes.

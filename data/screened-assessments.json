@@ -35,7 +35,13 @@
       "caution": "The school\u2019s process page still says 2025\u201326 and 67% DIA; current MySchools says 66%. Its activity page posts a later Dec 7 deadline; the MySchools application remains due Dec 4.",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/02M376/",
       "address": "131 Avenue Of The Americas, Manhattan, NY 10013",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/02M376/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/02M376/",
+      "niche": {
+        "grade": "A\u2212",
+        "url": "https://www.niche.com/k12/nyc-ischool-new-york-ny/",
+        "scope": "9-12",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "Gramercy Arts High School \u2014 Capstone Scholars",
@@ -69,7 +75,13 @@
       "caution": "Essay form opened while signed in, but has no visible cycle/date. Confirm it applies to Fall 2027. Questions: Admissions@GramercyHS.org.",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/02M374/",
       "address": "40 Irving Place, Manhattan, NY 10003",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/02M374/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/02M374/",
+      "niche": {
+        "grade": "B",
+        "url": "https://www.niche.com/k12/gramercy-arts-high-school-new-york-ny/",
+        "scope": "9-12",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "East Side Community School",
@@ -103,7 +115,13 @@
       "caution": "",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/01M450/",
       "address": "420 East 12 Street, Manhattan, NY 10009",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/01M450/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/01M450/",
+      "niche": {
+        "grade": "B+",
+        "url": "https://www.niche.com/k12/east-side-community-school-new-york-ny/",
+        "scope": "6-12",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "Institute for Collaborative Education (ICE)",
@@ -137,7 +155,13 @@
       "caution": "",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/02M407/",
       "address": "345 EAST 15 STREET, MANHATTAN, NY 10003",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/02M407/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/02M407/",
+      "niche": {
+        "grade": "A",
+        "url": "https://www.niche.com/k12/institute-for-collaborative-education-new-york-ny/",
+        "scope": "6-12",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "NEST+m",
@@ -175,7 +199,13 @@
       "caution": "The prompt file\u2019s title says 2025\u201326, but its body says 2026\u201327 and gives the Dec 4, 2026 deadline. School prose describes the grades component as a screened group; MySchools/NYCPS list average course grades. DIA applies only to new/non-continuing seats.",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/01M539/",
       "address": "111 COLUMBIA STREET, Manhattan, NY 10002",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/01M539/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/01M539/",
+      "niche": {
+        "grade": "A+",
+        "url": "https://www.niche.com/k12/new-explorations-into-science-technology-and-math-school-new-york-ny/",
+        "scope": "K-12",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "School of the Future",
@@ -209,7 +239,13 @@
       "caution": "",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/02M413/",
       "address": "127 East 22 Street, Manhattan, NY 10010",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/02M413/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/02M413/",
+      "niche": {
+        "grade": "A\u2212",
+        "url": "https://www.niche.com/k12/school-of-the-future-high-school-new-york-ny/",
+        "scope": "6-12",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "Bard High School Early College \u2014 Manhattan",
@@ -243,7 +279,13 @@
       "caution": "Upcoming published Manhattan GE date: Nov 7 (9am, noon, 3pm). More dates may be added; availability is only confirmed in registration. The school warns that late testing may yield interview results after the application deadline.",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/01M696/",
       "address": "525 East Houston Street, Manhattan, NY 10002",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/01M696/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/01M696/",
+      "niche": {
+        "grade": "A+",
+        "url": "https://www.niche.com/k12/bard-high-school-early-college-new-york-ny/",
+        "scope": "9-12",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "Beacon High School",
@@ -273,7 +315,13 @@
       "caution": "This assessment is separate from the common Consortium essay upload. Posted sessions: Nov 4, 7, 8, 10, 14, 15, 21, 23; Dec 1, 2. Check the session description and live capacity.",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/03M479/",
       "address": "522 WEST 44 STREET, MANHATTAN, NY 10036",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/03M479/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/03M479/",
+      "niche": {
+        "grade": "A+",
+        "url": "https://www.niche.com/k12/the-beacon-school-new-york-ny/",
+        "scope": "9-12",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "Manhattan / Hunter Science High School",
@@ -307,7 +355,13 @@
       "caution": "Form verified as \u201c2027\u20132028 \u2026 incoming 9th Grade ONLY.\u201d Later form pages require personal information; the exact personal-statement prompt/length was not visible without advancing. Read those instructions before drafting.",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/03M541/",
       "address": "122 Amsterdam Avenue, Manhattan, NY 10023",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/03M541/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/03M541/",
+      "niche": {
+        "grade": "A+",
+        "url": "https://www.niche.com/k12/manhattan-hunter-science-high-school-new-york-ny/",
+        "scope": "9-12",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "Frank McCourt High School",
@@ -341,7 +395,13 @@
       "caution": "MySchools calls the 80% component \u201cInterview/Online Form\u201d; the currently linked school task is an essay form. No separate interview requirement or cycle-specific essay deadline was visible. The form includes a 10th-grade choice while MySchools lists no 10th-grade seats; confirm if relevant.",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/03M417/",
       "address": "145 West 84 Street, Manhattan, NY 10024",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/03M417/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/03M417/",
+      "niche": {
+        "grade": "B+",
+        "url": "https://www.niche.com/k12/frank-mccourt-high-school-new-york-ny/",
+        "scope": "9-12",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "Medgar Evers College Preparatory School",
@@ -375,7 +435,13 @@
       "caution": "School pages are stale: grade-9 date Dec 13, 2025; linked registration says April 18, 2026. Its format page also lists a conflicting 40/20/20/20 breakdown. Use the current MySchools/NYCPS 40/25/25/10 criteria pending school clarification. No current signup is claimed.",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/17K590/",
       "address": "1186 Carroll Street, Brooklyn, NY 11225",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/17K590/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/17K590/",
+      "niche": {
+        "grade": "B\u2212",
+        "url": "https://www.niche.com/k12/medgar-evers-college-preparatory-school-brooklyn-ny/",
+        "scope": "6-12",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "Brooklyn College Academy",
@@ -405,7 +471,13 @@
       "caution": "Current school page verified October 26, 2026. It confirms 50% course grades and 50% school-based assessment, but does not specify the assessment format, submission deadline or an exam/interview appointment. Do not assume it requires an in-person exam. Main site: 350 Coney Island Avenue; follow school instructions for the event venue.",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/22K555/",
       "address": "350 Coney Island Avenue, Brooklyn, NY 11218",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/22K555/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/22K555/",
+      "niche": {
+        "grade": "A\u2212",
+        "url": "https://www.niche.com/k12/brooklyn-college-academy-brooklyn-ny/",
+        "scope": "9-12",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "STAR Early College High School at Erasmus",
@@ -439,7 +511,13 @@
       "caution": "Announcement combines middle- and high-school sessions; confirm the grade-9 process. Brooklyn applicants have priority over other NYC applicants; do not read one application per seat as easy admission for every group.",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/17K543/",
       "address": "911 Flatbush Avenue, Brooklyn, NY 11226",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/17K543/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/17K543/",
+      "niche": {
+        "grade": "A\u2212",
+        "url": "https://www.niche.com/k12/science-technology-and-research-high-school-at-erasmus-brooklyn-ny/",
+        "scope": "6-12",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "Bard High School Early College \u2014 Brooklyn",
@@ -473,7 +551,13 @@
       "caution": "These are geographic seat priorities, not an FRL percentage. One shared Bard assessment is enough, but each desired campus must appear on the MySchools application.",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/19K965/",
       "address": "301 Vermont Street, Brooklyn, NY 11207",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/19K965/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/19K965/",
+      "niche": {
+        "grade": "Not graded",
+        "url": "https://www.niche.com/k12/bard-high-school-early-college-brooklyn-brooklyn-ny/",
+        "scope": "9\u201312",
+        "checked_on": "2026-10-26"
+      }
     },
     {
       "name": "Kingsborough Early College School",
@@ -507,7 +591,13 @@
       "caution": "The old Google Site has a migration notice. Treat its interview link as unverified; the Oct 22, 2026 high-school open house has already passed and is not proof an interview was completed.",
       "myschools": "https://www.myschools.nyc/en/schools/high-school/21K468/",
       "address": "2630 Benson Avenue, Brooklyn, NY 11214",
-      "address_source": "https://www.myschools.nyc/en/schools/high-school/21K468/"
+      "address_source": "https://www.myschools.nyc/en/schools/high-school/21K468/",
+      "niche": {
+        "grade": "B",
+        "url": "https://www.niche.com/k12/kingsborough-early-college-school-brooklyn-ny/",
+        "scope": "6-12",
+        "checked_on": "2026-10-26"
+      }
     }
   ]
 }
