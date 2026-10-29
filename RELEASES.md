@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-28.2 | October 28, 2026 | Register Niche report cards and dated review evidence for the expanded private middle-school PDF; distinguish individual opinions and combined grade spans. | `release-2026-10-28.2` |
 | 2026-10-28.1 | October 28, 2026 | Register public sources for a private six-middle-school comparison PDF, including current language and soccer evidence. | `release-2026-10-28.1` |
 | 2026-10-27.1 | October 27, 2026 | Add a protected nine-page compact PDF download in requested section order, plus OSIS numbers beneath student names in the unlocked guide. | `release-2026-10-27.1` |
 | 2026-10-26.15 | October 26, 2026 | Add encrypted Manhattan Open and Educational Option directory: 10 / 56 school matches, program estimate bars, clickable Niche grades, addresses and High-first distance ordering from Tribeca. | `release-2026-10-26.15` |
