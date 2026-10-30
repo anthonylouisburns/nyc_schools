@@ -1,5 +1,5 @@
 {
-  "updated_on": "2026-10-28",
+  "updated_on": "2026-10-29",
   "scope": "Public sources used in the school guide and recommendations. Account pages, private family notes, credentials and application identifiers are excluded.",
   "entries": [
     {
@@ -10156,6 +10156,15 @@
       ],
       "recorded_on": "2026-10-28",
       "evidence_year": "Official website image checked October 28, 2026; photograph date not independently verified. Building photograph from co-located P94M is credited as building-only evidence."
+    },
+    {
+      "url": "https://data.cityofnewyork.us/City-Government/Borough-Boundaries/gthc-hcne",
+      "category": "Official map geometry",
+      "schools": [
+        "Selected-school map"
+      ],
+      "recorded_on": "2026-10-29",
+      "evidence_year": "NYC DCP borough shoreline boundaries, release 26b (May 26, 2026); simplified for the private map. New Jersey context shoreline is schematic."
     }
   ]
 }

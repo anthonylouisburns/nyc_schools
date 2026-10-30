@@ -6,6 +6,7 @@ Release tags identify recoverable versions of the website. GitHub Pages publishe
 
 | Version | Date | Website changes | Checkpoint |
 | --- | --- | --- | --- |
+| 2026-10-29.1 | October 29, 2026 | Register official shoreline geometry for a private stylized school map; identify schematic New Jersey context. | `release-2026-10-29.1` |
 | 2026-10-28.3 | October 28, 2026 | Register official school photo sources for the private eight-page comparison PDF, including shared-building attribution. | `release-2026-10-28.3` |
 | 2026-10-28.2 | October 28, 2026 | Register Niche report cards and dated review evidence for the expanded private middle-school PDF; distinguish individual opinions and combined grade spans. | `release-2026-10-28.2` |
 | 2026-10-28.1 | October 28, 2026 | Register public sources for a private six-middle-school comparison PDF, including current language and soccer evidence. | `release-2026-10-28.1` |
